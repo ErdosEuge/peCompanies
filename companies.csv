@@ -1,0 +1,501 @@
+A,B,C,D,E,F,Sector,Industry,I,L,M,N,O,P,Q,R,S,Company
+485873,0.8,13643,198825,-7.2,2300000,General Merchandisers,Retailing,23,2300000,485873,13643,198825,77798,2.8,6.9,17.5,Walmart
+315199,-4.4,9571.3,489838,-6.2,926067,Utilities,Energy,17,926067,315199,9571.3,489838,209456,3,2,4.6,State Grid
+267518,-9.1,1257.9,310726,-65,713288,Petroleum Refining,Energy,19,713288,267518,1257.9,310726,106523,0.5,0.4,1.2,Sinopec Group
+262573,-12.3,1867.5,585619,-73.7,1512048,Petroleum Refining,Energy,17,1512048,262573,1867.5,585619,301893,0.7,0.3,0.6,China National Petroleum
+254694,7.7,16899.3,437575,-12.3,364445,Motor Vehicles and Parts,Motor Vehicles & Parts,23,364445,254694,16899.3,437575,157210,6.6,3.9,10.7,Toyota Motor
+240264,1.5,5937.3,432116,,626715,Motor Vehicles and Parts,Motor Vehicles & Parts,23,626715,240264,5937.3,432116,97753,2.5,1.4,6.1,Volkswagen
+240033,-11.8,4575,411275,135.9,89000,Petroleum Refining,Energy,23,89000,240033,4575,411275,186646,1.9,1.1,2.5,Royal Dutch Shell
+223604,6.1,24074,620854,,367700,Insurance: Property and Casualty (Stock),Financials,21,367700,223604,24074,620854,283001,10.8,3.9,8.5,Berkshire Hathaway
+215639,-7.7,45687,321686,-14.4,116000,"Computers, Office Equipment",Technology,15,116000,215639,45687,321686,128249,21.2,14.2,35.6,Apple
+205004,-16.7,7840,330314,-51.5,72700,Petroleum Refining,Energy,23,72700,205004,7840,330314,167325,3.8,2.4,4.7,Exxon Mobil
+198533,3.1,5070,60969,124.5,64500,Wholesalers: Health Care,Wholesalers,23,64500,198533,5070,60969,11095,2.6,8.3,45.7,McKesson
+186606,-17.4,115,263316,,74500,Petroleum Refining,Energy,23,74500,186606,115,263316,95286,0.1,,0.1,BP
+184840,17.7,7017,122810,20.7,230000,Health Care: Insurance and Managed Care,Health Care,21,230000,184840,7017,122810,38274,3.8,5.7,18.3,UnitedHealth Group
+177526,15.8,5317,94462,1.5,204000,Health Care: Pharmacy and Other Services,Health Care,22,204000,177526,5317,94462,36830,3,5.6,14.4,CVS Health
+173957,-2,19316.5,217104,16.8,325000,"Electronics, Electrical Equip.",Technology,23,325000,173957,19316.5,217104,154376,11.1,8.9,12.5,Samsung Electronics
+173883,2,1379,124600,,93123,"Mining, Crude-Oil Production",Energy,7,93123,173883,1379,124600,44243,0.8,1.1,3.1,Glencore
+169483,2.2,9428.4,256262,0.9,282488,Motor Vehicles and Parts,Motor Vehicles & Parts,23,282488,169483,9428.4,256262,61116,5.6,3.7,15.4,Daimler
+166380,9.2,9427,221690,-2.7,225000,Motor Vehicles and Parts,Motor Vehicles & Parts,23,225000,166380,9427,221690,43836,5.7,4.3,21.5,General Motors
+163786,11.6,12976,403821,-2.8,268540,Telecommunications,Telecommunications,23,268540,163786,12976,403821,123135,7.9,3.2,10.5,AT&T
+154894,1.5,651.3,186172,-21.1,302562,Diversified Financials,Financials,7,302562,154894,651.3,186172,11582,0.4,0.3,5.6,EXOR Group
+151800,1.5,4596,237951,-37.7,201000,Motor Vehicles and Parts,Motor Vehicles & Parts,23,201000,151800,4596,237951,29170,3,1.9,15.8,Ford Motor
+147675,-11.7,41883.9,3473238,-5,461749,Banks: Commercial and Savings,Financials,19,461749,147675,41883.9,3473238,283438,28.4,1.2,14.8,Industrial & Commercial Bank of China
+146850,8,1427.9,33656,,18500,Wholesalers: Health Care,Wholesalers,18,18500,146850,1427.9,33656,2129,1,4.2,67.1,AmerisourceBergen
+144505,3.1,2492.9,201269,10.7,263915,"Engineering, Construction",Engineering & Construction,6,263915,144505,2492.9,201269,15344,1.7,1.2,16.2,China State Construction Engineering
+143722,11.2,6446,941556,3.5,97707,"Insurance: Life, Health (stock)",Financials,23,97707,143722,6446,941556,74454,4.5,0.7,8.7,AXA
+135987,27.1,2371,83402,297.8,341400,Internet Services and Retailing,Technology,9,341400,135987,2371,83402,19285,1.7,2.8,12.3,Amazon.com
+135129,-4.3,4608.8,80436,-0.4,726772,"Electronics, Electrical Equip.",Technology,13,726772,135129,4608.8,80436,33476,3.4,5.7,13.8,Hon Hai Precision Industry
+135093,-8.7,34840.9,3016578,-4,362482,Banks: Commercial and Savings,Financials,18,362482,135093,34840.9,3016578,226851,25.8,1.2,15.4,China Construction Bank
+129198,6.2,5690.3,170165,98.3,211915,Motor Vehicles and Parts,Motor Vehicles & Parts,23,211915,129198,5690.3,170165,65482,4.4,3.3,8.7,Honda Motor
+127925,-10.8,6196,230978,21.8,102168,Petroleum Refining,Energy,23,102168,127925,6196,230978,98680,4.8,2.7,6.3,Total
+126661,-9.8,8831,365183,,295000,Industrial Machinery,Industrials,23,295000,126661,8831,365183,75828,7,2.4,11.6,General Electric
+125980,-4.3,13127,244180,-26.6,160900,Telecommunications,Telecommunications,23,160900,125980,13127,244180,22524,10.4,5.4,58.3,Verizon
+122990,3.6,-267.4,2631385,-107.5,248384,"Insurance: Life, Health (stock)",Financials,21,248384,122990,-267.4,2631385,91532,-0.2,,-0.3,Japan Post Holdings
+122196,-0.6,7611.5,932091,3.7,140253,Insurance: Property and Casualty (Stock),Financials,23,140253,122196,7611.5,932091,71020,6.2,0.8,10.7,Allianz
+121546,18.5,1427,34122,17.4,37300,Wholesalers: Health Care,Wholesalers,20,37300,121546,1427,34122,6554,1.2,4.2,21.8,Cardinal Health
+118719,2.2,2350,33163,-1.1,172000,General Merchandisers,Retailing,23,172000,118719,2350,33163,12079,2,7.1,19.5,Costco
+117351,13.4,4173,72688,-1.1,300000,Food and Drug Stores,Food & Drug Stores,23,300000,117351,4173,72688,29880,3.6,5.7,14,Walgreens Boots Alliance
+117275,-12.1,27687.8,2816039,-3.6,501368,Banks: Commercial and Savings,Financials,18,501368,117275,27687.8,2816039,189682,23.6,1,14.6,Agricultural Bank of China
+116581,5.7,9392,802490,8.9,318588,"Insurance: Life, Health (stock)",Financials,8,318588,116581,9392,802490,55177,8.1,1.2,17,Ping An Insurance
+115337,5,1975,36505,-3.1,443000,Food and Drug Stores,Food & Drug Stores,23,443000,115337,1975,36505,6698,1.7,5.4,29.5,Kroger
+113861,6.7,4818.2,84989,1.6,97582,Motor Vehicles and Parts,Motor Vehicles & Parts,6,97582,113861,4818.2,84989,27617,4.2,5.7,17.4,SAIC Motor
+113708,-7.1,24773.4,2611539,-8.9,308900,Banks: Commercial and Savings,Financials,23,308900,113708,24773.4,2611539,203134,21.8,0.9,12.2,Bank of China
+109026,-2.2,8517.2,2190423,14.7,184839,Banks: Commercial and Savings,Financials,23,184839,109026,8517.2,2190423,106164,7.8,0.4,8,BNP Paribas
+108164,6.5,6123.4,165344,40.3,137250,Motor Vehicles and Parts,Motor Vehicles & Parts,23,137250,108164,6123.4,165344,50550,5.7,3.7,12.1,Nissan Motor
+107567,-18,-497,260078,-110.8,55200,Petroleum Refining,Energy,23,55200,107567,-497,260078,145556,-0.5,-0.2,-0.3,Chevron
+107162,-2.9,12313,3287968,12.4,7000,Diversified Financials,Financials,20,7000,107162,12313,3287968,6071,11.5,0.4,202.8,Fannie Mae
+107117,0.3,9614.3,246446,-5.2,463712,Telecommunications,Telecommunications,17,463712,107117,9614.3,246446,130459,9,3.9,7.4,China Mobile Communications
+105486,4.4,24733,2490972,1.2,243355,Banks: Commercial and Savings,Financials,23,243355,105486,24733,2490972,254190,23.4,1,9.7,J.P. Morgan Chase
+105235,442.3,1697.9,577954,3.4,8939,"Insurance: Life, Health (stock)",Financials,17,8939,105235,1697.9,577954,8579,1.6,0.3,19.8,Legal & General Group
+105128,9.4,7384.4,190740,20.2,274844,Telecommunications,Telecommunications,23,274844,105128,7384.4,190740,81254,7,3.9,9.1,Nippon Telegraph & Telephone
+104818,3.5,162.4,483026,-96.1,143676,"Insurance: Life, Health (stock)",Financials,15,143676,104818,162.4,483026,14079,0.2,,1.2,China Life Insurance
+104130,1.8,7589.4,198835,7.4,124729,Motor Vehicles and Parts,Motor Vehicles & Parts,23,124729,104130,7589.4,198835,49682,7.3,3.8,15.3,BMW Group
+100288,-1.4,3404.4,51745,37.5,25600,Health Care: Pharmacy and Other Services,Health Care,15,25600,100288,3404.4,51745,16236,3.4,6.6,21,Express Scripts Holding
+98098,0.9,750.8,41230,-39.3,4107,Trading,Wholesalers,3,4107,98098,750.8,41230,5548,0.8,1.8,13.5,Trafigura Group
+96979,-2.5,924.1,108864,-6,292215,"Engineering, Construction",Engineering & Construction,3,292215,96979,924.1,108864,10806,1,0.8,8.6,China Railway Engineering
+96965,53.7,2592.8,581221,-34.2,23673,"Insurance: Life, Health (stock)",Financials,22,23673,96965,2592.8,581221,18117,2.7,0.4,14.3,Prudential
+95217,-7.2,2301.3,549656,2.2,73727,"Insurance: Life, Health (stock)",Financials,23,73727,95217,2301.3,549656,25886,2.4,0.4,8.9,Assicurazioni Generali
+94877,-0.8,1192.4,109968,7.8,336872,"Engineering, Construction",Engineering & Construction,6,336872,94877,1192.4,109968,10146,1.3,1.1,11.8,China Railway Construction
+94595,6.9,7957,42966,13.5,406000,Specialty Retailers,Retailing,23,406000,94595,7957,42966,4333,8.4,18.5,183.6,Home Depot
+94571,-1.6,4895,89997,-5.4,150540,Aerospace and Defense,Aerospace & Defense,23,150540,94571,4895,89997,817,5.2,5.4,599.1,Boeing
+94176,4.6,21938,1930115,-4.2,269100,Banks: Commercial and Savings,Financials,20,269100,94176,21938,1930115,199581,23.3,1.1,11,Wells Fargo
+93662,0.7,17906,2187702,12.7,208024,Banks: Commercial and Savings,Financials,23,208024,93662,17906,2187702,266840,19.1,0.8,6.7,Bank of America Corp.
+91382,-8.1,14222.6,277262,10.4,467400,Energy,Energy,21,467400,91382,14222.6,277262,181813,15.6,5.1,7.8,Gazprom
+90814,-1.6,8659.2,129824,-8.1,328000,Food Consumer Products,"Food, Beverages & Tobacco",23,328000,90814,8659.2,129824,63573,9.5,6.7,13.6,Nestle
+90272,20.4,19478,167497,19.1,72053,Internet Services and Retailing,Technology,9,72053,90272,19478,167497,139036,21.6,11.6,14,Alphabet
+88419,0.9,6050.5,141271,-27.4,351000,Industrial Machinery,Industrials,23,351000,88419,6050.5,141271,38444,6.8,4.3,15.7,Siemens
+87112,-0.4,825,51513,-24.1,384151,Food and Drug Stores,Food & Drug Stores,23,384151,87112,825,51513,10996,0.9,1.6,7.5,Carrefour
+86194,4.1,1415,59532,-4.4,189795,Motor Vehicles and Parts,Motor Vehicles & Parts,8,189795,86194,1415,59532,11464,1.6,2.4,12.3,Dongfeng Motor
+85320,-8.8,16798,193694,37.8,114000,Computer Software,Technology,20,114000,85320,16798,193694,71997,19.7,8.7,23.3,Microsoft
+84863,7.2,2469.8,65083,-3.5,53000,Health Care: Insurance and Managed Care,Health Care,16,53000,84863,2469.8,65083,25100,2.9,3.8,9.8,Anthem
+84558,1.2,2134.3,86742,48.8,303887,"Electronics, Electrical Equip.",Technology,23,303887,84558,2134.3,86742,26632,2.5,2.5,8,Hitachi
+82892,8.4,13163.4,221113,233.3,68402,Telecommunications,Telecommunications,10,68402,82892,13163.4,221113,32191,15.9,6,40.9,SoftBank Group
+82801,-2.5,6860.7,1412281,3.7,185606,Banks: Commercial and Savings,Financials,23,185606,82801,6860.7,1412281,95906,8.3,0.5,7.2,Banco Santander
+82386,-6.7,14912,1792077,-13.5,219000,Banks: Commercial and Savings,Financials,23,219000,82386,14912,1792077,225120,18.1,0.8,6.6,Citigroup
+81405,-16.3,-4838,246983,,68829,Petroleum Refining,Energy,23,68829,81405,-4838,246983,76779,-5.9,-2,-6.3,Petrobras
+80869,3.3,2155.3,86348,-39.1,389281,Motor Vehicles and Parts,Motor Vehicles & Parts,23,389281,80869,2155.3,86348,36316,2.7,2.5,5.9,Robert Bosch
+80832,5.3,2958.1,156597,-18,221000,Telecommunications,Telecommunications,23,221000,80832,2958.1,156597,30906,3.7,1.9,9.6,Deutsche Telekom
+80701,-0.8,4659,148092,-17.9,129315,Motor Vehicles and Parts,Motor Vehicles & Parts,22,129315,80701,4659,148092,55639,5.8,3.1,8.4,Hyundai Motor
+80403,7.9,8695,180500,6.5,159000,Telecommunications,Telecommunications,15,159000,80403,8695,180500,53943,10.8,4.8,16.1,Comcast
+80258,-4.6,3914.7,1607501,0.4,70830,Banks: Commercial and Savings,Financials,23,70830,80258,3914.7,1607501,61460,4.9,0.2,6.4,Credit Agricole
+79919,-3.1,11872,117470,-10,414400,Information Technology Services,Technology,23,414400,79919,11872,117470,18246,14.9,10.1,65.1,IBM
+78740,-5.4,3152.8,297026,139.4,154808,Utilities,Energy,23,154808,78740,3152.8,297026,36319,4,1.1,8.7,Electricite de France
+78511,24.9,5579.4,63837,-5,180000,Network and Other Communications Equipment,Technology,8,180000,78511,5579.4,63837,20159,7.1,8.7,27.7,Huawei Investment & Holding
+78064,-7,2842,164096,16.7,62080,Utilities,Energy,23,62080,78064,2842,164096,36704,3.6,1.7,7.7,Enel
+76132,0.6,350.3,256030,-94.4,68234,Insurance: Property and Casualty (Mutual),Financials,23,68234,76132,350.3,256030,87592,0.5,0.1,0.4,State Farm Insurance Cos.
+75776,-1,2580.2,158291,3.7,420572,Pharmaceuticals,Health Care,8,420572,75776,2580.2,158291,23605,3.4,1.6,10.9,China Resources National
+75772,11.8,103.9,78223,108.6,274760,General Merchandisers,Retailing,23,274760,75772,103.9,78223,9567,0.1,0.1,1.1,AEON
+75329,-15.4,2479,2374986,-81.7,241000,Banks: Commercial and Savings,Financials,23,241000,75329,2479,2374986,175386,3.3,0.1,1.4,HSBC Holdings
+74629,2.2,3168.1,48196,-1.2,362128,"Engineering, Construction",Engineering & Construction,4,362128,74629,3168.1,48196,19835,4.2,6.6,16,Pacific Construction Group
+74628,105.9,948.8,544063,-32.3,29530,"Insurance: Life, Health (stock)",Financials,23,29530,74628,948.8,544063,21004,1.3,0.2,4.5,Aviva
+74407,,-3557.5,51541,,12890,Energy,Energy,1,12890,74407,-3557.5,51541,12889,-4.8,-6.9,-27.6,Uniper
+74393,-15.1,-52.7,57052,-125.3,342770,Food and Drug Stores,Food & Drug Stores,23,342770,74393,-52.7,57052,8011,-0.1,-0.1,-0.7,Tesco
+73692,-4.9,-458.9,167158,,153090,Energy,Energy,22,153090,73692,-458.9,167158,41740,-0.6,-0.3,-1.1,Engie
+73628,3,1100.3,117204,-63.2,133782,Aerospace and Defense,Aerospace & Defense,23,133782,73628,1100.3,117204,3857,1.5,0.9,28.5,Airbus Group
+72579,107.4,659.7,85332,-86,84000,Petroleum Refining,Energy,2,84000,72579,659.7,85332,10858,0.9,0.8,6.1,SK Holdings
+72396,-16.9,1555,51653,-63.2,14800,Petroleum Refining,Energy,5,14800,72396,1555,51653,22390,2.1,3,6.9,Phillips 66
+71890,2.6,16540,141208,7.3,126400,Pharmaceuticals,Health Care,17,126400,71890,16540,141208,70418,23,11.7,23.5,Johnson & Johnson
+71726,-8.9,10508,127136,49.3,105000,Household and Personal Products,Household Products,23,105000,71726,10508,127136,57341,14.7,8.3,18.3,Procter & Gamble
+71498,3.7,-5591,25219,,574349,"Mail, Package, and Freight Delivery",Transportation,23,574349,71498,-5591,25219,-55982,-7.8,-22.2,,U.S. Postal Service
+71242,-4.6,2329.8,99187,4.8,302421,Utilities,Energy,13,302421,71242,2329.8,99187,38384,3.3,2.3,6.1,China Southern Power Grid
+71151,1.5,580.3,51857,-61,232817,Aerospace and Defense,Aerospace & Defense,8,232817,71151,580.3,51857,7508,0.8,1.1,7.7,China South Industries Group
+70897,-16.3,3090.6,82179,-35.1,105500,Petroleum Refining,Energy,18,105500,70897,3090.6,82179,52783,4.4,3.8,5.9,Lukoil
+70751,4.4,1431.3,146763,-16.2,152666,"Engineering, Construction",Engineering & Construction,10,152666,70751,1431.3,146763,14824,2,1,9.7,China Communications Construction
+70517,25.5,4410.1,1302721,22.6,102827,Banks: Commercial and Savings,Financials,8,102827,70517,4410.1,1302721,64820,6.3,0.3,6.8,Groupe BPCE
+70170,3.9,676.4,158519,-45.1,128400,"Electronics, Electrical Equip.",Technology,23,128400,70170,676.4,158519,22415,1,0.4,3,Sony
+70166,-14.2,2289,46173,-42.6,9996,Petroleum Refining,Energy,17,9996,70166,2289,46173,20024,3.3,5,11.4,Valero Energy
+69495,-5.8,2737,37431,-18.6,323000,General Merchandisers,Retailing,23,323000,69495,2737,37431,10953,3.9,7.3,25,Target
+69335,-1.1,4284,1457753,-3.5,151341,Banks: Commercial and Savings,Financials,21,151341,69335,4284,1457753,65338,6.2,0.3,6.6,Societe Generale
+68700,-1.1,2853.1,282435,-17.2,43428,Insurance: Property and Casualty (Stock),Financials,23,43428,68700,2853.1,282435,33238,4.2,1,8.6,Munich Re Group
+67775,6.7,1378.4,53702,0.2,257533,"Electronics, Electrical Equip.",Technology,23,257533,67775,1378.4,53702,14109,2,2.6,9.8,Panasonic
+67388,0.4,2786.9,650429,-17.1,85171,"Insurance: Life, Health (Mutual)",Financials,23,85171,67388,2786.9,650429,17261,4.1,0.4,16.1,Nippon Life Insurance
+67245,11,3211,382679,74.3,52473,Insurance: Property and Casualty (Stock),Financials,23,52473,67245,3211,382679,30660,4.8,0.8,10.5,Zurich Insurance Group
+66876,21.4,6666.4,415972,-13.7,94779,Banks: Commercial and Savings,Financials,4,94779,66876,6666.4,415972,37680,10,1.6,17.7,Itau Unibanco Holding
+66732,3.3,2144.3,134132,-31,188570,Insurance: Property and Casualty (Stock),Financials,8,188570,66732,2144.3,134132,18145,3.2,1.6,11.8,People’s Insurance Co. of China
+65892,-2.8,1752.4,166595,-62,100821,"Mining, Crude-Oil Production",Energy,11,100821,65892,1752.4,166595,70827,2.7,1.1,2.5,China National Offshore Oil
+65792,8.2,1433.7,61904,176.4,39952,Trading,Wholesalers,23,39952,65792,1433.7,61904,15113,2.2,2.3,9.5,Marubeni
+65787,-3.8,2918.3,40387,70.8,459262,"Mail, Package, and Freight Delivery",Transportation,23,459262,65787,2918.3,40387,11693,4.4,7.2,25,Deutsche Post DHL Group
+65665,3.4,7815,2023376,22.6,5982,Diversified Financials,Financials,21,5982,65665,7815,2023376,5075,11.9,0.4,154,Freddie Mac
+65605,-5.8,4980.3,1221649,18.7,941211,"Mail, Package, and Freight Delivery",Transportation,7,941211,65605,4980.3,1221649,43114,7.6,0.4,11.6,China Post Group
+65547,105.6,-446.7,109334,,212406,Metals,Materials,11,212406,65547,-446.7,109334,4631,-0.7,-0.4,-9.6,China Minmetals
+65208,38.2,2784.4,1010245,111.9,70433,Banks: Commercial and Savings,Financials,23,70433,65208,2784.4,1010245,59327,4.3,0.3,4.7,Lloyds Banking Group
+65017,10.1,3093,34408,21.5,240000,Specialty Retailers,Retailing,20,240000,65017,3093,34408,6434,4.8,9,48.1,Lowe’s
+64853,-9,665,28039,-13.6,196540,Food and Drug Stores,Food & Drug Stores,22,196540,64853,665,28039,5978,1,2.4,11.1,Metro
+64806,18.1,-1672,118206,,138000,"Computers, Office Equipment",Technology,17,138000,64806,-1672,118206,13243,-2.6,-1.4,-12.6,Dell Technologies
+64784,3.1,2411.3,54772,-25.9,122323,Motor Vehicles and Parts,Motor Vehicles & Parts,13,122323,64784,2411.3,54772,24489,3.7,4.4,9.8,China FAW Group
+63641,-18.6,4485.3,80675,1.4,109543,Chemicals,Chemicals,23,109543,63641,4485.3,80675,33545,7,5.6,13.4,BASF
+63629,1.8,1477.3,59767,,26247,Petroleum Refining,Energy,23,26247,63629,1477.3,59767,12829,2.3,2.5,11.5,JXTG Holdings
+63476,-9.3,800,898764,-84.9,58000,"Insurance: Life, Health (stock)",Financials,23,58000,63476,800,898764,67309,1.3,0.1,1.2,MetLife
+63324,-1.4,141.7,34713,-11.6,17353,Trading,Wholesalers,6,17353,63324,141.7,34713,3465,0.2,0.4,4.1,Tewoo Group
+63155,4.7,2271,69146,-5,49500,Health Care: Insurance and Managed Care,Health Care,17,49500,63155,2271,69146,17881,3.6,3.3,12.7,Aetna
+62799,-0.4,6329,74129,16.1,264000,Food Consumer Products,"Food, Beverages & Tobacco",23,264000,62799,6329,74129,11095,10.1,8.5,57,PepsiCo
+62694,-32.6,-1619,131349,,33536,Petroleum Refining,Energy,23,33536,62694,-1619,131349,55934,-2.6,-1.2,-2.9,ENI
+62387,1,1764.6,115819,2.9,413536,Telecommunications,Telecommunications,18,413536,62387,1764.6,115819,50919,2.8,1.5,3.5,China Telecommunications
+62346,-7.9,1279,39769,-30.8,31800,Food Production,"Food, Beverages & Tobacco",23,31800,62346,1279,39769,17173,2.1,3.2,7.4,Archer Daniels Midland
+61326,-0.5,853,53140,6.2,234771,Aerospace and Defense,Aerospace & Defense,8,234771,61326,853,53140,13401,1.4,1.6,6.4,China North Industries Group
+61265,-5,204.5,72072,-23,101708,Trading,Wholesalers,23,101708,61265,204.5,72072,11029,0.3,0.3,1.9,COFCO
+61130,11.3,1260.6,57783,14.9,134765,Motor Vehicles and Parts,Motor Vehicles & Parts,5,134765,61130,1260.6,57783,8037,2.1,2.2,15.7,Beijing Automotive Group
+60906,4.4,3431,40377,-29.2,335520,"Mail, Package, and Freight Delivery",Transportation,23,335520,60906,3431,40377,405,5.6,8.5,847.2,UPS
+60800,124,3883.9,430040,0.9,40707,"Insurance: Life, Health (Mutual)",Financials,1,40707,60800,3883.9,430040,20372,6.4,0.9,19.1,Anbang Insurance Group
+59749,-1.5,1913.1,47620,91.8,175341,Motor Vehicles and Parts,Motor Vehicles & Parts,23,175341,59749,1913.1,47620,13348,3.2,4,14.3,Peugeot
+59678,1.6,-373.3,23755,,273000,Food and Drug Stores,Food & Drug Stores,13,273000,59678,-373.3,23755,1371,-0.6,-1.6,-27.2,Albertsons Cos.
+59590,-2.5,2134.5,466617,43.5,62606,"Insurance: Life, Health (stock)",Financials,23,62606,59590,2134.5,466617,11675,3.6,0.5,18.3,Dai-ichi Life Holdings
+59533,-1.9,468,57484,,60576,Trading,Wholesalers,22,60576,59533,468,57484,9195,0.8,0.8,5.1,Sinochem Group
+59387,7.3,10316,113327,-9.7,106000,Semiconductors and Other Electronic Components,Technology,23,106000,59387,10316,113327,66226,17.4,9.1,15.6,Intel
+59303,2.8,4063.5,141402,,77164,Trading,Wholesalers,23,77164,59303,4063.5,141402,44137,6.9,2.9,9.2,Mitsubishi
+58862,-2.2,652.4,38537,13.5,342709,Food and Drug Stores,Food & Drug Stores,21,342709,58862,652.4,38537,10593,1.1,1.7,6.2,Auchan Holding
+58789,50.5,483.3,448666,-38.7,29380,"Insurance: Life, Health (stock)",Financials,22,29380,58789,483.3,448666,25647,0.8,0.1,1.9,Aegon
+58779,2.9,4368,783962,-22.6,49739,"Insurance: Life, Health (stock)",Financials,23,49739,58779,4368,783962,45863,7.4,0.6,9.5,Prudential Financial
+58611,-5,-6904,165420,,111556,Telecommunications,Telecommunications,18,111556,58611,-6904,165420,77211,-11.8,-4.2,-8.9,Vodafone Group
+58292,-1.4,5732.7,59512,5.3,168832,Household and Personal Products,Household Products,23,168832,58292,5732.7,59512,17247,9.8,9.6,33.2,Unilever
+58093,-13.4,2013.8,426416,-52.3,100622,Banks: Commercial and Savings,Financials,23,100622,58093,2013.8,426416,26551,3.5,0.5,7.6,Banco do Brasil
+57774,-21.4,-10256.3,113115,,125689,"Mining, Crude-Oil Production",Energy,23,125689,57774,-10256.3,113115,-59909,-17.8,-9.1,,Pemex
+57544,-5.5,2619.7,130396,283.4,127323,Telecommunications,Telecommunications,23,127323,57544,2619.7,130396,19149,4.6,2,13.7,Telefonica
+57443,31.3,5127.9,366418,-5.7,94541,Banks: Commercial and Savings,Financials,21,94541,57443,5127.9,366418,32369,8.9,1.4,15.8,Banco Bradesco
+57244,-6.2,5055,89706,-33.6,201600,Aerospace and Defense,Aerospace & Defense,23,201600,57244,5055,89706,27579,8.8,5.6,18.3,United Technologies
+56791,-10.7,1779,75142,,198517,Metals,Materials,13,198517,56791,1779,75142,30135,3.1,2.4,5.9,ArcelorMittal
+56667,12.7,3780.9,107681,20.7,124849,Motor Vehicles and Parts,Motor Vehicles & Parts,23,124849,56667,3780.9,107681,32423,6.7,3.5,11.7,Renault
+56553,-12.7,2705.1,180756,-53.4,295800,Petroleum Refining,Energy,12,295800,56553,2705.1,180756,54227,4.8,1.5,5,Rosneft Oil
+56174,5.9,1217.2,31641,8.6,135393,Textiles,Industrials,6,135393,56174,1217.2,31641,9438,2.2,3.8,12.9,Shandong Weiqiao Pioneering Group
+55858,-13.5,1174,44413,-58.8,44460,Petroleum Refining,Energy,6,44460,55858,1174,44413,13557,2.1,2.6,8.7,Marathon Petroleum
+55632,6,9391,92033,12,195000,Entertainment,Media,23,195000,55632,9391,92033,43265,16.9,10.2,21.7,Disney
+55306,-8.2,464.2,124892,-47.4,457097,Aerospace and Defense,Aerospace & Defense,9,457097,55306,464.2,124892,24345,0.8,0.4,1.9,Aviation Industry Corp. of China
+55282,-16.5,5501.6,888226,0.7,51943,Banks: Commercial and Savings,Financials,23,51943,55282,5501.6,888226,49839,10,0.6,11,ING Group
+55185,15.9,8550.1,2722354,7.9,115276,Banks: Commercial and Savings,Financials,16,115276,55185,8550.1,2722354,110573,15.5,0.3,7.7,Mitsubishi UFJ Financial Group
+54955,29.7,917.9,38257,-2.9,225000,Food and Drug Stores,Food & Drug Stores,23,225000,54955,917.9,38257,17165,1.7,2.4,5.3,Royal Ahold Delhaize
+54379,0.2,614,25396,-51.9,51600,Health Care: Insurance and Managed Care,Health Care,19,51600,54379,614,25396,10685,1.1,2.4,5.7,Humana
+53858,7.5,892.9,49244,-33,54712,Food and Drug Stores,Food & Drug Stores,12,54712,53858,892.9,49244,20086,1.7,1.8,4.4,Seven & I Holdings
+53562,-2.1,2960,42132,72.7,34999,Petroleum Refining,Energy,23,34999,53562,2960,42132,15724,5.5,7,18.8,Indian Oil
+53427,2,9719.9,75609,5.5,94052,Pharmaceuticals,Health Care,23,94052,53427,9719.9,75609,23534,18.2,12.9,41.3,Roche Group
+53035,79.4,278.9,173095,18.7,220258,Airlines,Transportation,3,220258,53035,278.9,173095,14096,0.5,0.2,2,HNA Group
+52990,-7.1,10116.9,1209176,-4.4,95160,Banks: Commercial and Savings,Financials,9,95160,52990,10116.9,1209176,90531,19.1,0.8,11.2,Bank of Communications
+52852,-5.5,3236.3,938261,-14,201263,Diversified Financials,Financials,9,201263,52852,3236.3,938261,41784,6.1,0.3,7.7,CITIC Group
+52824,8.1,7215,171615,3.7,96500,Pharmaceuticals,Health Care,23,96500,52824,7215,171615,59544,13.7,4.2,12.1,Pfizer
+52569,0.3,5010.6,86731,9.9,115170,Pharmaceuticals,Health Care,23,115170,52569,5010.6,86731,31990,9.5,5.8,15.7,Bayer
+52367,-10.2,-849,498264,-138.7,56400,Insurance: Property and Casualty (Stock),Financials,22,56400,52367,-849,498264,76300,-1.6,-0.2,-1.1,AIG
+52201,-7.4,462.9,73555,-79,194193,Telecommunications,Telecommunications,11,194193,52201,462.9,73555,10143,0.9,0.6,4.6,America Movil
+51500,-0.6,6074.1,147265,-48.3,43688,Utilities,Energy,23,43688,51500,6074.1,147265,59394,11.8,4.1,10.2,Korea Electric Power
+50658,9.8,5302,47806,47.1,97000,Aerospace and Defense,Aerospace & Defense,23,97000,50658,5302,47806,1511,10.5,11.1,350.9,Lockheed Martin
+50367,3.5,949.6,16722,38.3,51900,Wholesalers: Food and Grocery,Wholesalers,23,51900,50367,949.6,16722,3480,1.9,5.7,27.3,Sysco
+50365,6.1,1820,46064,73.3,335767,"Mail, Package, and Freight Delivery",Transportation,23,335767,50365,1820,46064,13784,3.6,4,13.2,FedEx
+50123,,3161,79679,,195000,Information Technology Services,Technology,1,195000,50123,3161,79679,31448,6.3,4,10.1,Hewlett Packard Enterprise
+49838,-10.6,305,19843,44.5,17407,Food Production,"Food, Beverages & Tobacco",4,17407,49838,305,19843,5115,0.6,1.5,6,Louis Dreyfus Company
+49677,3.9,1199.9,18405,5.2,17852,"Electronics, Electrical Equip.",Technology,5,17852,49677,1199.9,18405,10005,2.4,6.5,12,Amer International Group
+49479,-22,4092.9,134528,21.4,51034,Petroleum Refining,Energy,21,51034,49479,4092.9,134528,84800,8.3,3,4.8,Petronas
+49446,-2.2,1225.7,110202,4.5,42060,Utilities,Energy,23,42060,49446,1225.7,110202,20905,2.5,1.1,5.9,Tokyo Electric Power
+49436,-3.1,6712,130124,-62.3,118393,Pharmaceuticals,Health Care,23,118393,49436,6712,130124,74832,13.6,5.2,9,Novartis
+49247,0.2,10739,121652,19.6,73700,Network and Other Communications Equipment,Technology,18,73700,49247,10739,121652,63586,21.8,8.8,16.9,Cisco Systems
+49239,17.9,1942.2,190596,28.5,40641,Insurance: Property and Casualty (Stock),Financials,19,40641,49239,1942.2,190596,12793,3.9,1,15.2,MS&AD Insurance Group Holdings
+48876,-6.8,-1550.4,1677437,,99744,Banks: Commercial and Savings,Financials,23,99744,48876,-1550.4,1677437,63102,-3.2,-0.1,-2.5,Deutsche Bank
+48869,7.2,1057.6,86687,-9.6,187813,"Engineering, Construction",Engineering & Construction,6,187813,48869,1057.6,86687,9990,2.2,1.2,10.6,PowerChina
+48825,-0.1,107.7,31605,-92.3,237061,Food Production,"Food, Beverages & Tobacco",8,237061,48825,107.7,31605,7307,0.2,0.3,1.5,JBS
+48719,-17.7,2681.6,62349,360.6,24934,Petroleum Refining,Energy,14,24934,48719,2681.6,62349,21309,5.5,4.3,12.6,PTT
+48292,26.6,2527.4,202923,19.2,38842,Insurance: Property and Casualty (Stock),Financials,23,38842,48292,2527.4,202923,16474,5.2,1.2,15.3,Tokio Marine Holdings
+48238,-53.3,2496,29010,-45.2,49000,"Computers, Office Equipment",Technology,23,49000,48238,2496,29010,-3889,5.2,8.6,,HP
+48204,-6.6,-6249.1,80576,,58652,Utilities,Energy,23,58652,48204,-6249.1,80576,3898,-13,-7.8,-160.3,RWE
+48158,-1.3,4318,79511,-43.8,56000,Chemicals,Chemicals,23,56000,48158,4318,79511,25987,9,5.4,16.6,Dow Chemical
+48154,-7.3,687.8,46270,,232503,Food and Drug Stores,Food & Drug Stores,3,232503,48154,687.8,46270,744,1.4,1.5,92.5,Finatis
+48003,-7.6,296.1,30358,-85.4,220000,Food and Drug Stores,Food & Drug Stores,9,220000,48003,296.1,30358,17083,0.6,1,1.7,Wesfarmers
+47810,7.9,504,36767,13.7,106772,Pharmaceuticals,Health Care,5,106772,47810,504,36767,5658,1.1,1.4,8.9,Sinopharm
+47804,-3,1327.3,442027,5.8,5035,"Insurance: Life, Health (stock)",Financials,23,5035,47804,1327.3,442027,18491,2.8,0.3,7.2,CNP Assurances
+47712,-4.6,66.2,31348,-39.8,75000,"Electronics, Electrical Equip.",Technology,17,75000,47712,66.2,31348,9926,0.1,0.2,0.7,LG Electronics
+47375,19.2,6520.5,1775349,21,77205,Banks: Commercial and Savings,Financials,23,77205,47375,6520.5,1775349,72876,13.8,0.4,8.9,Sumitomo Mitsui Financial Group
+46931,8,4458.9,108856,5.6,140483,Petroleum Refining,Energy,14,140483,46931,4458.9,108856,40614,9.5,4.1,11,Reliance Industries
+46606,-11.5,442.8,106725,,169344,Metals,Materials,14,169344,46606,442.8,106725,35728,1,0.4,1.2,China Baowu Steel Group
+46528,-30.3,8.7,12285,,1000,Trading,Wholesalers,10,1000,46528,8.7,12285,3974,,0.1,0.2,Noble Group
+45905,5.3,1241,258381,-85,206633,Beverages,"Food, Beverages & Tobacco",12,206633,45905,1241,258381,71339,2.7,0.5,1.7,Anheuser-Busch InBev
+45873,-23.4,-2902,104530,,20539,Petroleum Refining,Energy,23,20539,45873,-2902,104530,35072,-6.3,-2.8,-8.3,Statoil
+45621,-11.8,1167.5,66361,669.8,31768,Metals,Materials,23,31768,45621,1167.5,66361,35057,2.6,1.8,3.3,POSCO
+45425,3.7,2373.8,42141,2,51357,Motor Vehicles and Parts,Motor Vehicles & Parts,6,51357,45425,2373.8,42141,22010,5.2,5.6,10.8,Kia Motors
+45249,1.3,3245.7,99840,10.3,155202,Telecommunications,Telecommunications,23,155202,45249,3245.7,99840,32365,7.2,3.3,10,Orange
+45177,9.1,17.9,54341,,110614,Chemicals,Chemicals,7,110614,45177,17.9,54341,3462,,,0.5,ChemChina
+44850,0.1,768.6,59716,,306368,Railroads,Transportation,23,306368,44850,768.6,59716,13246,1.7,1.3,5.8,Deutsche Bahn
+44842,3,3099.1,38151,2.4,220137,Motor Vehicles and Parts,Motor Vehicles & Parts,15,220137,44842,3099.1,38151,15050,6.9,8.1,20.6,Continental
+44747,2.7,2890,33758,35.7,210500,Health Care: Medical Facilities,Health Care,23,210500,44747,2890,33758,-7302,6.5,8.6,,HCA Holdings
+44654,5.5,3250.6,72902,62.3,110207,Trading,Wholesalers,23,110207,44654,3250.6,72902,21559,7.3,4.5,15.1,Itochu
+44552,-8.1,9344.8,855070,1.8,70461,Banks: Commercial and Savings,Financials,6,70461,44552,9344.8,855070,57896,21,1.1,16.1,China Merchants Bank
+44533,6.8,36,530590,-98.1,278872,Banks: Commercial and Savings,Financials,12,278872,44533,36,530590,33450,0.1,,0.1,State Bank of India
+43925,-13.2,-898.3,17495,-150.3,205000,Food and Drug Stores,Food & Drug Stores,21,205000,43925,-898.3,17495,6305,-2,-5.1,-14.2,Woolworths
+43822,17.8,5045.1,56223,22.5,35032,Telecommunications,Telecommunications,20,35032,43822,5045.1,56223,31904,11.5,9,15.8,KDDI
+43786,22.6,3558,215065,-22.6,14053,Insurance: Property and Casualty (Stock),Financials,23,14053,43786,3558,215065,35634,8.1,1.7,10,Swiss Re
+43769,-3.3,-146.8,51858,,125552,Metals,Materials,9,125552,43769,-146.8,51858,7693,-0.3,-0.3,-1.9,HBIS Group
+43743,4.5,740.9,22578,22.8,29637,Energy,Energy,4,29637,43743,740.9,22578,3916,1.7,3.3,18.9,CEFC China Energy
+43698,1.7,3842.8,771837,31.1,134792,Banks: Commercial and Savings,Financials,23,134792,43698,3842.8,771837,49952,8.8,0.5,7.7,Banco Bilbao Vizcaya Argentaria
+43589,-11,328.6,39411,-7.1,156487,Metals,Materials,23,156487,43589,328.6,39411,2362,0.8,0.8,13.9,ThyssenKrupp
+43231,-6.4,1449.8,46158,0.9,172696,"Building Materials, Glass",Materials,23,172696,43231,1449.8,46158,19790,3.4,3.1,7.3,Saint-Gobain
+43035,-4.2,535.1,27186,,52000,"Computers, Office Equipment",Technology,8,52000,43035,535.1,27186,3224,1.2,2,16.6,Lenovo Group
+42771,-1.9,2770.1,71642,22.1,183487,"Engineering, Construction",Engineering & Construction,17,183487,42771,2770.1,71642,17365,6.5,3.9,16,Vinci
+42757,4.6,1208.5,65182,-0.2,100169,Metals,Materials,23,100169,42757,1208.5,65182,23555,2.8,1.9,5.1,Nippon Steel & Sumitomo Metal
+42679,-1.8,745,19188,-5.8,32000,Food Production,"Food, Beverages & Tobacco",15,32000,42679,745,19188,7144,1.7,3.9,10.4,Bunge
+42622,-8.2,8105.9,875731,1.5,56236,Banks: Commercial and Savings,Financials,5,56236,42622,8105.9,875731,50382,19,0.9,16.1,Industrial Bank
+42213,-67.3,-9344.4,67179,,43138,Energy,Energy,23,43138,42213,-9344.4,67179,-1113,-22.1,-13.9,,E.ON
+42159,-7.6,8078,415730,121,325075,Banks: Commercial and Savings,Financials,10,325075,42159,8078,415730,46182,19.2,1.9,17.5,Sberbank
+42149,17,485.8,69621,-62.9,182129,Industrial Machinery,Industrials,7,182129,42149,485.8,69621,17789,1.2,0.7,2.7,China Shipbuilding Industry
+42113,0.5,1740.3,69870,-38.7,120479,Apparel,Apparel,17,120479,42113,1740.3,69870,12293,4.1,2.5,14.2,Christian Dior
+41863,-5.5,6527,87270,-11.2,100300,Beverages,"Food, Beverages & Tobacco",23,100300,41863,6527,87270,23062,15.6,7.5,28.3,Coca-Cola
+41781,10.9,2377.6,46233,16.9,154493,Motor Vehicles and Parts,Motor Vehicles & Parts,23,154493,41781,2377.6,46233,29735,5.7,5.1,8,Denso
+41620,5.4,816.7,28646,13,155069,Information Technology Services,Technology,23,155069,41620,816.7,28646,7910,2,2.9,10.3,Fujitsu
+41560,20.7,551.9,30267,10.8,75908,Motor Vehicles and Parts,Motor Vehicles & Parts,5,75908,41560,551.9,30267,3791,1.3,1.8,14.6,Guangzhou Automobile Industry Group
+41402,6.8,972.2,37032,-7.9,90000,Food Production,"Food, Beverages & Tobacco",9,90000,41402,972.2,37032,14435,2.3,2.6,6.7,Wilmar International
+41376,-0.2,5207.4,110390,9.5,113816,Pharmaceuticals,Health Care,13,113816,41376,5207.4,110390,60698,12.6,4.7,8.6,Sanofi
+41274,-6.4,23.2,88626,-95.8,253724,Telecommunications,Telecommunications,9,253724,41274,23.2,88626,11152,0.1,,0.2,China United Network Communications
+40921,31.6,517.5,308346,-6.1,42245,"Insurance: Life, Health (Mutual)",Financials,23,42245,40921,517.5,308346,8491,1.3,0.2,6.1,Sumitomo Life Insurance
+40787,-11.1,1088.1,287196,324.1,11320,"Insurance: Life, Health (Mutual)",Financials,23,11320,40787,1088.1,287196,20108,2.7,0.4,5.4,New York Life Insurance
+40721,78.6,562,20197,58.3,30500,Health Care: Insurance and Managed Care,Health Care,2,30500,40721,562,20197,5895,1.4,2.8,9.5,Centene
+40689,-3.2,7992.8,842832,-0.7,52832,Banks: Commercial and Savings,Financials,5,52832,40689,7992.8,842832,52946,19.6,0.9,15.1,Shanghai Pudong Development Bank
+40606,11,423.7,128247,,49000,"Insurance: Life, Health (stock)",Financials,12,49000,40606,423.7,128247,3650,1,0.3,11.6,Hanwha
+40329,-4.2,1111.6,42162,-34,79558,Motor Vehicles and Parts,Motor Vehicles & Parts,8,79558,40329,1111.6,42162,8942,2.8,2.6,12.4,Tata Motors
+40278,6,-282.5,75089,,121146,Metals,Materials,10,121146,40278,-282.5,75089,2669,-0.7,-0.4,-10.6,Aluminum Corp. of China
+40275,1.6,2825.3,103231,,42316,Trading,Wholesalers,23,42316,40275,2825.3,103231,33500,7,2.7,8.4,Mitsui
+40238,49.4,2209.7,537461,28.9,34500,"Insurance: Life, Health (stock)",Financials,15,34500,40238,2209.7,537461,31197,5.5,0.4,7.1,Manulife Financial
+40234,-5.2,7201.6,848389,-1.8,58720,Banks: Commercial and Savings,Financials,5,58720,40234,7201.6,848389,49297,17.9,0.8,14.6,China Minsheng Banking
+40193,2.2,1814.9,146873,-35.7,97032,"Insurance: Life, Health (stock)",Financials,7,97032,40193,1814.9,146873,18960,4.5,1.2,9.6,China Pacific Insurance (Group)
+40180,-2,2676,51274,-64.8,122300,Airlines,Transportation,23,122300,40180,2676,51274,3785,6.7,5.2,70.7,American Airlines Group
+40074,-0.4,334.3,197790,-42.4,34320,Insurance: Property and Casualty (Mutual),Financials,23,34320,40074,334.3,197790,15537,0.8,0.2,2.2,Nationwide
+39807,0.8,3920,95377,-11.8,68000,Pharmaceuticals,Health Care,23,68000,39807,3920,95377,40088,9.8,4.1,9.8,Merck
+39668,4.7,1867,59360,-10.8,41000,Health Care: Insurance and Managed Care,Health Care,22,41000,39668,1867,59360,13723,4.7,3.1,13.6,Cigna
+39639,-2.6,4373,51261,-3.4,83756,Airlines,Transportation,23,83756,39639,4373,51261,12287,11,8.5,35.6,Delta Air Lines
+39403,-0.9,1228,13856,36.9,125000,Specialty Retailers,Retailing,19,125000,39403,1228,13856,4709,3.1,8.9,26.1,Best Buy
+39323,24,74.5,81224,,228448,"Building Materials, Glass",Materials,7,228448,39323,74.5,81224,5822,0.2,0.1,1.3,China National Building Material Group
+39302,1.9,4809,54146,0.9,131000,"Electronics, Electrical Equip.",Technology,23,131000,39302,4809,54146,19369,12.2,8.9,24.8,Honeywell International
+39155,35.7,-573,23077,,120622,Internet Services and Retailing,Technology,2,120622,39155,-573,23077,4877,-1.5,-2.5,-11.7,JD.com
+39119,6.9,1942.6,37519,2.1,138700,"Electronics, Electrical Equip.",Technology,23,138700,39119,1942.6,37519,18307,5,5.2,10.6,Mitsubishi Electric
+38888,20.2,949.9,30719,-12.1,136820,Motor Vehicles and Parts,Motor Vehicles & Parts,4,136820,38888,949.9,30719,6134,2.4,3.1,15.5,ZF Friedrichshafen
+38537,-18,-67,74704,-103.2,95400,Construction and Farm Machinery,Industrials,23,95400,38537,-67,74704,13137,-0.2,-0.1,-0.5,Caterpillar
+38308,-2.9,1006,125592,95.7,50000,Insurance: Property and Casualty (Stock),Financials,23,50000,38308,1006,125592,20366,2.6,0.8,4.9,Liberty Mutual Insurance Group
+38286,27.9,855.5,315387,-40.5,30259,"Insurance: Life, Health (stock)",Financials,19,30259,38286,855.5,315387,10339,2.2,0.3,8.3,Power Corp. of Canada
+37949,0.1,5979,814949,-2.4,55311,Banks: Commercial and Savings,Financials,20,55311,37949,5979,814949,76050,15.8,0.7,7.9,Morgan Stanley
+37880,12.2,821.7,14838,43.7,61400,Textiles,Industrials,1,61400,37880,821.7,14838,5498,2.2,5.5,14.9,Hengli Group
+37813,-12.7,2082.9,29899,200.3,21157,Utilities,Energy,12,21157,37813,2082.9,29899,7842,5.5,7,26.6,SSE
+37788,-1.2,1273.5,271040,-10.6,11737,"Insurance: Life, Health (Mutual)",Financials,21,11737,37788,1273.5,271040,15424,3.4,0.5,8.3,Massachusetts Mutual Life Insurance
+37712,-3.8,7398,860165,21.6,34400,Banks: Commercial and Savings,Financials,18,34400,37712,7398,860165,86893,19.6,0.9,8.5,Goldman Sachs Group
+37674,-6.3,-868,63253,-155.5,209000,Industrial Machinery,Industrials,13,209000,37674,-868,63253,24118,-2.3,-1.4,-3.6,Johnson Controls International
+37642,3,1230.9,72985,-90.4,99300,Pharmaceuticals,Health Care,23,99300,37642,1230.9,72985,1389,3.3,1.7,88.7,GlaxoSmithKline
+37543,-13.1,-85.9,144306,-111.1,143691,Energy,Energy,9,143691,37543,-85.9,144306,7512,-0.2,-0.1,-1.1,China Huaneng Group
+37504,-11,995,79011,-16.3,30992,Pipelines,Energy,4,30992,37504,995,79011,-1694,2.7,1.3,,Energy Transfer Equity
+37322,-0.8,1916.9,140911,37.9,202200,"Mining, Crude-Oil Production",Energy,8,202200,37322,1916.9,140911,47962,5.1,1.4,4,Shenhua Group
+37240,12.8,1085.2,105495,-1,39887,Real estate,Financials,6,39887,37240,1085.2,105495,8333,2.9,1,13,Greenland Holding Group
+37105,5.5,1492.3,523194,22.9,12997,"Insurance: Life, Health (Mutual)",Financials,20,12997,37105,1492.3,523194,35583,4,0.3,4.2,TIAA
+37051,0.1,2503,71523,39.3,430000,Motor Vehicles and Parts,Motor Vehicles & Parts,18,430000,37051,2503,71523,21800,6.8,3.5,11.5,Jardine Matheson
+37047,-3.1,8901,112180,-10.4,136000,Computer Software,Technology,11,136000,37047,8901,112180,47289,24,7.9,18.8,Oracle
+36992,-4.5,830.5,35196,3.2,117542,"Engineering, Construction",Engineering & Construction,13,117542,36992,830.5,35196,3778,2.2,2.4,22,ACS
+36888,10.4,1577.1,69669,154,70900,Trading,Wholesalers,23,70900,36888,1577.1,69669,21241,4.3,2.3,7.4,Sumitomo
+36881,-10.9,1768,22373,44.9,114000,Food Production,"Food, Beverages & Tobacco",16,114000,36881,1768,22373,9608,4.8,7.9,18.4,Tyson Foods
+36789,-25.7,2807.4,1498612,,119300,Banks: Commercial and Savings,Financials,23,119300,36789,2807.4,1498612,80140,7.6,0.2,3.5,Barclays
+36617,7.4,687.8,203760,12.3,136739,"Insurance: Life, Health (stock)",Financials,12,136739,36617,687.8,203760,8578,1.9,0.3,8,Poste Italiane
+36580,-14.4,2256.7,27046,,38278,Utilities,Energy,20,38278,36580,2256.7,27046,3293,6.2,8.3,68.5,Centrica
+36556,-3.5,2263,40140,-69.2,88000,Airlines,Transportation,22,88000,36556,2263,40140,8659,6.2,5.6,26.1,United Continental Holdings
+36534,2.5,1877,108610,-13.5,43275,Insurance: Property and Casualty (Stock),Financials,22,43275,36534,1877,108610,20573,5.1,1.7,9.1,Allstate
+36487,-12.6,3147,47233,121.6,27227,Petroleum Refining,Energy,5,27227,36487,3147,47233,21864,8.6,6.7,14.4,Pertamina
+36445,7.6,2031,22566,0.9,155450,Motor Vehicles and Parts,Motor Vehicles & Parts,17,155450,36445,2031,22566,9768,5.6,9,20.8,Magna International
+36230,-5.9,3252.2,920291,-49.6,59387,Banks: Commercial and Savings,Financials,23,59387,36230,3252.2,920291,52777,9,0.4,6.2,UBS Group
+36225,-14.2,3440.3,764712,13.2,89126,Banks: Commercial and Savings,Financials,19,89126,36225,3440.3,764712,51583,9.5,0.4,6.7,Intesa Sanpaolo
+36211,-1.3,414.9,28299,0.6,195000,Food and Drug Stores,Food & Drug Stores,23,195000,36211,414.9,28299,5790,1.1,1.5,7.2,George Weston
+36122,7.2,809.6,49205,52.3,82728,Industrial Machinery,Industrials,23,82728,36122,809.6,49205,15074,2.2,1.6,5.4,Mitsubishi Heavy Industries
+36114,43.1,185.8,3717,13.8,328,Trading,Wholesalers,2,328,36114,185.8,3717,868,0.5,5,21.4,Rajesh Exports
+35891,-6.1,599.6,13776,-20.1,196251,"Computers, Office Equipment",Technology,5,196251,35891,599.6,13776,4601,1.7,4.4,13,Pegatron
+35767,0.4,2064.8,362739,15.8,41872,"Insurance: Life, Health (Mutual)",Financials,23,41872,35767,2064.8,362739,12074,5.8,0.6,17.1,Meiji Yasuda Life Insurance
+35464,-12,-1939,61118,-345.1,87736,Shipping,Transportation,14,87736,35464,-1939,61118,31258,-5.5,-3.2,-6.2,Maersk Group
+35421,-10.3,4757.1,84489,-4.9,35000,Chemicals,Chemicals,13,35000,35421,4757.1,84489,43471,13.4,5.6,10.9,SABIC
+35277,-2.2,809.5,36758,81.1,117997,"Engineering, Construction",Engineering & Construction,23,117997,35277,809.5,36758,8585,2.3,2.2,9.4,Bouygues
+35269,-4.8,1535.8,43924,-14,89477,Motor Vehicles and Parts,Motor Vehicles & Parts,23,89477,35269,1535.8,43924,10577,4.4,3.5,14.5,Volvo
+35101,-0.8,1003,165124,23.2,20039,Insurance: Property and Casualty (Stock),Financials,4,20039,35101,1003,165124,9574,2.9,0.6,10.5,Talanx
+35011,-1.5,1964,36593,4.3,107276,Airlines,Transportation,23,107276,35011,1964,36593,7446,5.6,5.4,26.4,Lufthansa Group
+34904,0.3,7839.6,880724,-1.8,75510,Banks: Commercial and Savings,Financials,23,75510,34904,7839.6,880724,52994,22.5,0.9,14.8,Royal Bank of Canada
+34798,5.7,4111.9,20609,34.7,384000,Information Technology Services,Technology,16,384000,34798,4111.9,20609,7555,11.8,20,54.4,Accenture
+34485,-12.5,1919.7,68392,,24396,Petroleum Refining,Energy,23,24396,34485,1919.7,68392,32553,5.6,2.8,5.9,Repsol
+34458,17.5,3164.5,119555,9.8,58280,Real estate,Financials,2,58280,34458,3164.5,119555,16324,9.2,2.6,19.4,China Vanke
+34274,5.1,2025.7,17464,3.1,191000,Food and Drug Stores,Food & Drug Stores,23,191000,34274,2025.7,17464,13473,5.9,11.6,15,Publix Super Markets
+34193,6.8,356,6921,28.3,351500,Wholesalers: Food and Grocery,Wholesalers,19,351500,34193,356,6921,1729,1,5.1,20.6,Edeka Zentrale
+34149,-3.5,490.9,24674,-30.8,118700,Food and Drug Stores,Food & Drug Stores,23,118700,34149,490.9,24674,7971,1.4,2,6.2,J. Sainsbury
+34145,-1.1,1193.5,12304,27.9,105000,Food and Drug Stores,Food & Drug Stores,4,105000,34145,1193.5,12304,5044,3.5,9.7,23.7,Alimentation Couche-Tard
+33930,2.1,421,44181,-22,169173,"Engineering, Construction",Engineering & Construction,4,169173,33930,421,44181,5140,1.2,1,8.2,China Energy Engineering Group
+33881,-17.1,469.8,40783,,30767,Industrial Machinery,Industrials,11,30767,33881,469.8,40783,13197,1.4,1.2,3.6,Hyundai Heavy Industries
+33828,-4.7,1899,39499,-1.8,132300,Industrial Machinery,Industrials,23,132300,33828,1899,39499,13395,5.6,4.8,14.2,ABB
+33823,-1.8,5408,158893,4.7,56400,Diversified Financials,Financials,23,56400,33823,5408,158893,20501,16,3.4,26.4,American Express
+33781,-3,4617,89263,,51029,"Mining, Crude-Oil Production",Energy,12,51029,33781,4617,89263,39290,13.7,5.2,11.8,Rio Tinto Group
+33747,3.8,565.1,39993,,193718,Railroads,Transportation,23,193718,33747,565.1,39993,4696,1.7,1.4,12,SNCF Mobilites
+33739,-10.8,1700.3,48681,-9.6,183061,Industrial Machinery,Industrials,2,183061,33739,1700.3,48681,15088,5,3.5,11.3,CRRC
+33475,47.4,4252.4,130721,-72.2,290000,Specialty Retailers,Retailing,2,290000,33475,4252.4,130721,54777,12.7,3.3,7.8,CK Hutchison Holdings
+33366,-11.8,-153.9,30819,,127298,"Mining, Crude-Oil Production",Energy,7,127298,33366,-153.9,30819,2042,-0.5,-0.5,-7.5,Jizhong Energy Group
+33184,7.2,2298.2,12884,0.9,235000,Specialty Retailers,Retailing,16,235000,33184,2298.2,12884,4511,6.9,17.8,51,TJX
+33174,1.9,448.2,18705,-1.6,59429,Metals,Materials,6,59429,33174,448.2,18705,4585,1.4,2.4,9.8,Xinxing Cathay International Group
+32972,-0.7,2617.8,34541,-3.1,29499,Motor Vehicles and Parts,Motor Vehicles & Parts,6,29499,32972,2617.8,34541,23596,7.9,7.6,11.1,Hyundai Mobis
+32879,21.6,1168.9,29964,39.9,99389,Motor Vehicles and Parts,Motor Vehicles & Parts,16,99389,32879,1168.9,29964,11098,3.6,3.9,10.5,Aisin Seiki
+32845,6.9,4.1,11594,-97.6,70430,Food and Drug Stores,Food & Drug Stores,19,70430,32845,4.1,11594,614,,,0.7,Rite Aid
+32652,2.8,-22.6,45552,,134134,"Mining, Crude-Oil Production",Energy,5,134134,32652,-22.6,45552,14063,-0.1,,-0.2,Shaanxi Yanchang Petroleum (Group)
+32636,4.6,1623.4,537278,3.4,28264,Banks: Commercial and Savings,Financials,23,28264,32636,1623.4,537278,21160,5,0.3,7.7,DZ Bank
+32539,-5.9,-13038,906489,-793.7,117659,Banks: Commercial and Savings,Financials,22,117659,32539,-13038,906489,41484,-40.1,-1.4,-31.4,UniCredit Group
+32461,-1.3,1877.8,627701,-11.2,61400,Banks: Commercial and Savings,Financials,3,61400,32461,1877.8,627701,15661,5.8,0.3,12,China Everbright Group
+32421,21.9,1861.5,31917,115.8,60539,"Engineering, Construction",Engineering & Construction,13,60539,32421,1861.5,31917,10761,5.7,5.8,17.3,Daiwa House Industry
+32376,5.8,3760,21396,14.9,70700,Apparel,Apparel,11,70700,32376,3760,21396,12258,11.6,17.6,30.7,Nike
+32308,-7.3,2991.3,112536,11.4,28389,Utilities,Energy,13,28389,32308,2991.3,112536,38695,9.3,2.7,7.7,Iberdrola
+32287,-14.3,6712.9,694565,-10.9,45129,Banks: Commercial and Savings,Financials,13,45129,32287,6712.9,694565,44816,20.8,1,15,Commonwealth Bank of Australia
+32237,-8.2,502,39142,-34.5,115390,Industrial Machinery,Industrials,7,115390,32237,502,39142,8930,1.6,1.3,5.6,Sinomach
+32161,4.9,1761.6,48984,16.9,232873,Health Care: Medical Facilities,Health Care,8,232873,32161,1761.6,48984,13186,5.5,3.6,13.4,Fresenius
+32094,5,1996.2,55721,7.7,170357,Aerospace and Defense,Aerospace & Defense,3,170357,32094,1996.2,55721,21440,6.2,3.6,9.3,China Aerospace Science & Technology
+31926,5.3,-254.4,64151,,123559,"Mining, Crude-Oil Production",Energy,3,123559,31926,-254.4,64151,5769,-0.8,-0.4,-4.4,Shaanxi Coal & Chemical Industry
+31828,50.2,2368.8,194384,-4.3,89250,Real estate,Financials,2,89250,31828,2368.8,194384,22618,7.4,1.2,10.5,China Evergrande Group
+31680,0.4,20.4,16108,,25460,"Mining, Crude-Oil Production",Energy,5,25460,31680,20.4,16108,2967,0.1,0.1,0.7,Jiangxi Copper
+31559,16.4,1535.7,107092,15.5,47430,Insurance: Property and Casualty (Stock),Financials,21,47430,31559,1535.7,107092,8424,4.9,1.4,18.2,Sompo Holdings
+31508,18.1,744.1,95657,-11.4,76425,Real estate,Financials,3,76425,31508,744.1,95657,7676,2.4,0.8,9.7,China Poly Group
+31469,65.7,4135,159786,45.9,31000,Insurance: Property and Casualty (Stock),Financials,1,31000,31469,4135,159786,48275,13.1,2.6,8.6,Chubb
+31430,19.5,1265.7,29749,341.6,60712,Motor Vehicles and Parts,Motor Vehicles & Parts,6,60712,31430,1265.7,29749,5896,4,4.3,21.5,Zhejiang Geely Holding Group
+31360,6.5,1134,114904,-50,34396,Utilities,Energy,14,34396,31360,1134,114904,25837,3.6,1,4.4,Exelon
+31353,-0.4,2955,32872,-0.3,98800,Aerospace and Defense,Aerospace & Defense,17,98800,31353,2955,32872,10976,9.4,9,26.9,General Dynamics
+31333,9.3,2484.6,52972,-36.2,106400,Telecommunications,Telecommunications,23,106400,31333,2484.6,52972,10420,7.9,4.7,23.8,BT Group
+31271,-0.4,1385,44062,-23.9,197673,"Computers, Office Equipment",Technology,23,197673,31271,1385,44062,23865,4.4,3.1,5.8,Canon
+31185,7.3,324.3,11018,47.2,18150,Trading,Wholesalers,7,18150,31185,324.3,11018,2900,1,2.9,11.2,Wuchan Zhongda Group
+31158,5.6,1442.1,40064,237.1,69291,Chemicals,Chemicals,23,69291,31158,1442.1,40064,9796,4.6,3.6,14.7,Mitsubishi Chemical Holdings
+30912,-40.9,-6385,118953,-434.3,26827,"Mining, Crude-Oil Production",Energy,23,26827,30912,-6385,118953,54290,-20.7,-5.4,-11.8,BHP Billiton
+30855,2.3,6646.1,878268,4.5,81233,Banks: Commercial and Savings,Financials,18,81233,30855,6646.1,878268,54148,21.5,0.8,12.3,Toronto-Dominion Bank
+30696,14,2605.8,24794,-28.4,36668,Motor Vehicles and Parts,Motor Vehicles & Parts,15,36668,30696,2605.8,24794,13285,8.5,10.5,19.6,Subaru
+30678,-2,2441.3,31901,3.9,143616,Motor Vehicles and Parts,Motor Vehicles & Parts,23,143616,30678,2441.3,31901,20268,8,7.7,12,Bridgestone
+30588,-13,-2750.7,806950,,47170,Banks: Commercial and Savings,Financials,23,47170,30588,-2750.7,806950,41237,-9,-0.3,-6.7,Credit Suisse Group
+30582,9.7,1443.7,36999,-1.8,148682,Aerospace and Defense,Aerospace & Defense,2,148682,30582,1443.7,36999,13654,4.7,3.9,10.6,China Aerospace Science & Industry
+30539,6.8,627,38920,123.6,60439,Metals,Materials,15,60439,30539,627,38920,15632,2.1,1.6,4,JFE Holdings
+30390,13.5,5570.1,1799736,-0.3,59179,Banks: Commercial and Savings,Financials,17,59179,30390,5570.1,1799736,62843,18.3,0.3,8.9,Mizuho Financial Group
+30390,-6.9,13501,56977,-25.4,9000,Pharmaceuticals,Health Care,3,9000,30390,13501,56977,18887,44.4,23.7,71.5,Gilead Sciences
+30347,-12.2,424.2,17318,-45.7,12157,Food Production,"Food, Beverages & Tobacco",10,12157,30347,424.2,17318,7852,1.4,2.4,5.4,CHS
+30316,4.2,1300.5,16801,6.7,13395,Petroleum Refining,Energy,14,13395,30316,1300.5,16801,4747,4.3,7.7,27.4,Bharat Petroleum
+30109,-0.5,5050,32906,4.5,91584,Miscellaneous,Industrials,23,91584,30109,5050,32906,10298,16.8,15.3,49,3M
+30010,-4.8,321.9,36575,82.6,144659,"Electronics, Electrical Equip.",Technology,7,144659,30010,321.9,36575,4831,1.1,0.9,6.7,China Electronics
+29973,14.3,1374.6,33320,71.2,86778,"Building Materials, Glass",Materials,14,86778,29973,1374.6,33320,14654,4.6,4.1,9.4,CRH
+29877,-1,367.6,40773,-16.1,68025,Industrial Machinery,Industrials,2,68025,29877,367.6,40773,9164,1.2,0.9,4,China State Shipbuilding
+29862,-8.8,352.1,23720,148.5,35133,Metals,Materials,9,35133,29862,352.1,23720,5584,1.2,1.5,6.3,Jiangsu Shagang Group
+29743,29.5,1489,94792,30.1,106478,Shipping,Transportation,10,106478,29743,1489,94792,24148,5,1.6,6.2,China COSCO Shipping
+29665,4.5,865.5,22660,-22.7,48849,Motor Vehicles and Parts,Motor Vehicles & Parts,23,48849,29665,865.5,22660,8455,2.9,3.8,10.2,Mazda Motor
+29493,-3.7,436.6,126068,50.9,127343,Energy,Energy,6,127343,29493,436.6,126068,8477,1.5,0.3,5.2,State Power Investment
+29388,10.6,10283.7,58535,7.8,46968,Semiconductors and Other Electronic Components,Technology,3,46968,29388,10283.7,58535,42174,35,17.6,24.4,Taiwan Semiconductor Manufacturing
+29363,14.7,3982,99014,,73062,"Mining, Crude-Oil Production",Energy,11,73062,29363,3982,99014,39042,13.6,4,10.2,Vale
+29318,4.3,3926,65966,2.4,25000,Entertainment,Media,16,25000,29318,3926,65966,24335,13.4,6,16.1,Time Warner
+29299,16.6,39.2,39887,,179689,"Mining, Crude-Oil Production",Energy,6,179689,29299,39.2,39887,6575,0.1,0.1,0.6,Shandong Energy Group
+29252,10.4,1476.2,27969,51.9,62992,Motor Vehicles and Parts,Motor Vehicles & Parts,23,62992,29252,1476.2,27969,10318,5,5.3,14.3,Suzuki Motor
+29183,-10.9,3836,23442,-14.3,13000,Chemicals,Chemicals,10,13000,29183,3836,23442,6048,13.1,16.4,63.4,LyondellBasell Industries
+29003,1.1,1601.3,34068,123.8,114731,Medical Products and Equipment,Health Care,23,114731,29003,1601.3,34068,13289,5.5,4.7,12,Royal Philips
+29003,197.3,3522,149067,,91500,Telecommunications,Telecommunications,1,91500,29003,3522,149067,40139,12.1,2.4,8.8,Charter Communications
+28833,42.3,3538,99782,32.3,98017,Medical Products and Equipment,Health Care,1,98017,28833,3538,99782,52063,12.3,3.5,6.8,Medtronic
+28799,2.4,818,250441,0.4,5646,"Insurance: Life, Health (Mutual)",Financials,23,5646,28799,818,250441,20226,2.8,0.3,4,Northwestern Mutual
+28572,2,3434.5,37577,-6.1,89331,Household and Personal Products,Household Products,23,89331,28572,3434.5,37577,25840,12,9.1,13.3,L’Oreal
+28483,4,110.3,152701,-95.5,155905,Real estate,Financials,2,155905,28483,110.3,152701,17237,0.4,0.1,0.6,Dalian Wanda Group
+28277,12.1,267.7,13696,4.5,15745,Wholesalers: Health Care,Wholesalers,15,15745,28277,267.7,13696,3607,0.9,2,7.4,Medipal Holdings
+28204,-10.3,360.6,112115,-70.3,107000,Utilities,Energy,6,107000,28204,360.6,112115,7947,1.3,0.3,4.5,China Huadian
+28196,21.1,4164,185074,54.7,20000,"Insurance: Life, Health (stock)",Financials,3,20000,28196,4164,185074,34984,14.8,2.2,11.9,AIA Group
+28166,-2.3,1228.1,12370,63.4,10422,Petroleum Refining,Energy,14,10422,28166,1228.1,12370,3245,4.4,9.9,37.8,Hindustan Petroleum
+28155,-1.2,693.3,62536,-16.7,77704,Food and Drug Stores,Food & Drug Stores,23,77704,28155,693.3,62536,17132,2.5,1.1,4,Migros Group
+27920,-3.4,875.8,24185,569.1,82175,Airlines,Transportation,21,82175,27920,875.8,24185,1354,3.1,3.6,64.7,Air France-KLM Group
+27837,2.5,1408.5,13693,5,527180,Food Services,"Hotels, Restaurants & Leisure",16,527180,27837,1408.5,13693,3254,5.1,10.3,43.3,Compass Group
+27810,-21.6,-1687,77956,-181.4,100000,Oil & Gas Equipment Services,Energy,17,100000,27810,-1687,77956,41078,-6.1,-2.2,-4.1,Schlumberger
+27792,2.8,1299.3,61513,10.8,32666,Utilities,Energy,23,32666,27792,1299.3,61513,11205,4.7,2.1,11.6,Kansai Electric Power
+27715,-12.7,469.3,18229,-16.4,92698,"Computers, Office Equipment",Technology,12,92698,27715,469.3,18229,4123,1.7,2.6,11.4,Quanta Computer
+27704,-10.8,5477,642083,-12.7,35280,Banks: Commercial and Savings,Financials,13,35280,27704,5477,642083,44468,19.8,0.9,12.3,Westpac Banking
+27669,2.8,482.1,18369,11.5,73451,Food and Drug Stores,Food & Drug Stores,8,73451,27669,482.1,18369,8250,1.7,2.6,5.8,Coop Group
+27638,54.2,10217,64961,177,17048,Internet Services and Retailing,Technology,1,17048,27638,10217,64961,59194,37,15.7,17.3,Facebook
+27625,3.1,3014,100245,-12.4,30900,Insurance: Property and Casualty (Stock),Financials,14,30900,27625,3014,100245,23221,10.9,3,13,Travelers Cos.
+27519,9.6,3751,357033,-7.4,47300,Banks: Commercial and Savings,Financials,7,47300,27519,3751,357033,47514,13.6,1.1,7.9,Capital One Financial
+27326,-5.7,2755,48365,-66.8,21500,Entertainment,Media,23,21500,27326,2755,48365,13661,10.1,5.7,20.2,Twenty-First Century Fox
+27315,-10.5,268.7,114611,-67.2,124056,Energy,Energy,8,124056,27315,268.7,114611,7496,1,0.2,3.6,China Guodian
+27308,11.4,1817.9,68521,,90903,"Building Materials, Glass",Materials,9,90903,27308,1817.9,68521,30337,6.7,2.7,6,LafargeHolcim
+27307,-7.6,1935.2,44137,24,143901,"Electronics, Electrical Equip.",Technology,16,143901,27307,1935.2,44137,21614,7.1,4.4,9,Schneider Electric
+27292,3.3,1611.6,35898,-1.5,158064,Aerospace and Defense,Aerospace & Defense,2,158064,27292,1611.6,35898,15895,5.9,4.5,10.1,China Electronics Technology Group
+27131,11.4,1779.1,147290,-21.7,29943,Insurance: Property and Casualty (Stock),Financials,4,29943,27131,1779.1,147290,28840,6.6,1.2,6.2,USAA
+27016,-11.1,126.5,5413,-27.5,5000,Energy,Energy,6,5000,27016,126.5,5413,1925,0.5,2.3,6.6,World Fuel Services
+26976,5.2,135.4,9292,-39.5,26611,Wholesalers: Health Care,Wholesalers,7,26611,26976,135.4,9292,2732,0.5,1.5,5,Phoenix Pharmahandel
+26972,-2.6,423.6,40022,-15.2,156225,Utilities,Energy,15,156225,26972,423.6,40022,8173,1.6,1.1,5.2,Veolia Environnement
+26958,-21.1,259,594967,-94.8,34263,Banks: Commercial and Savings,Financials,22,34263,26958,259,594967,39244,1,,0.7,National Australia Bank
+26685,-0.4,6967,36851,1.4,79500,Tobacco,"Food, Beverages & Tobacco",9,79500,26685,6967,36851,-12688,26.1,18.9,,Philip Morris International
+26644,-7.7,1523.9,57981,-21.4,56767,Construction and Farm Machinery,Industrials,23,56767,26644,1523.9,57981,6520,5.7,2.6,23.4,Deere
+26587,11.3,2565,71009,25.5,85834,Railroads,Transportation,23,85834,26587,2565,71009,23253,9.6,3.6,11,East Japan Railway
+26494,2.8,-423.5,98096,-199.7,14921,"Insurance: Life, Health (Mutual)",Financials,4,14921,26494,-423.5,98096,10308,-1.6,-0.4,-4.1,Achmea
+26487,44.4,3632,120480,472.9,41000,Food Consumer Products,"Food, Beverages & Tobacco",3,41000,26487,3632,120480,57358,13.7,3,6.3,Kraft Heinz
+26292,14.9,934,172442,-22.5,36578,"Insurance: Life, Health (stock)",Financials,16,36578,26292,934,172442,11212,3.6,0.5,8.3,Cathay Life Insurance
+26235,-0.5,195.1,7932,-26.6,9500,Wholesalers: Electronics and Office Equipment,Wholesalers,19,9500,26235,195.1,7932,2170,0.7,2.5,9,Tech Data
+26222,7,1770.3,219157,65.3,5284,"Insurance: Life, Health (stock)",Financials,21,5284,26222,1770.3,219157,22064,6.8,0.8,8,Samsung Life Insurance
+26219,-6.1,506.5,11240,-11.4,17700,Wholesalers: Electronics and Office Equipment,Wholesalers,7,17700,26219,506.5,11240,4691,1.9,4.5,10.8,Avnet
+26113,73.4,-847.1,47354,-131,102687,Network and Other Communications Equipment,Technology,19,102687,26113,-847.1,47354,21192,-3.2,-1.8,-4,Nokia
+26073,-1.4,1560.9,64011,695,7733,Pipelines,Energy,4,7733,26073,1560.9,64011,15949,6,2.4,9.8,Enbridge
+26070,-11.5,1489.6,49688,-10.6,17229,Utilities,Energy,9,17229,26070,1489.6,49688,16057,5.7,3,9.3,Gas Natural Fenosa
+26032,-10.1,4199.9,699976,-28.4,46554,Banks: Commercial and Savings,Financials,14,46554,26032,4199.9,699976,44237,16.1,0.6,9.5,Australia & New Zealand Banking Group
+26004,-11.2,200.5,31199,-87.5,111464,Network and Other Communications Equipment,Technology,23,111464,26004,200.5,31199,15395,0.8,0.6,1.3,LM Ericsson
+25975,6.3,992.7,26062,31,248330,Motor Vehicles and Parts,Motor Vehicles & Parts,23,248330,25975,992.7,26062,11769,3.8,3.8,8.4,Sumitomo Electric Industries
+25923,-12.5,1659,61538,-77.2,90000,Food Consumer Products,"Food, Beverages & Tobacco",10,90000,25923,1659,61538,25161,6.4,2.7,6.6,Mondelez International
+25913,23.8,769.3,211943,-18,68527,"Insurance: Life, Health (stock)",Financials,16,68527,25913,769.3,211943,9949,3,0.4,7.7,Old Mutual
+25888,-1,813.7,23711,,9139,Petroleum Refining,Energy,23,9139,25888,813.7,23711,3852,3.1,3.4,21.1,Idemitsu Kosan
+25817,2.8,5362.2,668805,-4.9,88901,Banks: Commercial and Savings,Financials,20,88901,25817,5362.2,668805,41975,20.8,0.8,12.8,Bank of Nova Scotia
+25778,-4.8,619,19851,-42.3,148300,General Merchandisers,Retailing,23,148300,25778,619,19851,4323,2.4,3.1,14.3,Macy’s
+25775,3.9,857.5,71590,9.1,37020,Insurance: Property and Casualty (Stock),Financials,10,37020,25775,857.5,71590,9625,3.3,1.2,8.9,Mapfre Group
+25760,0.8,938.9,257526,33.3,240407,"Mail, Package, and Freight Delivery",Transportation,22,240407,25760,938.9,257526,11513,3.6,0.4,8.2,La Poste
+25733,11.6,3485,21203,9.9,162450,Specialty Retailers,Retailing,2,162450,25733,3485,21203,13738,13.5,16.4,25.4,Inditex
+25638,12.2,5953,66099,15.7,30000,Pharmaceuticals,Health Care,2,30000,25638,5953,66099,4636,23.2,9,128.4,AbbVie
+25630,-19.8,-214.8,40012,,162542,"Mining, Crude-Oil Production",Energy,5,162542,25630,-214.8,40012,3169,-0.8,-0.5,-6.8,Datong Coal Mine Group
+25444,-1.2,144.9,34710,,26357,General Merchandisers,Retailing,4,26357,25444,144.9,34710,13502,0.6,0.4,1.1,Lotte Shopping
+25279,46.9,496.7,235324,-77.2,6302,Diversified Financials,Financials,19,6302,25279,496.7,235324,5370,2,0.2,9.2,Standard Life
+25123,-19.1,-10,39206,-113.1,209817,"Mining, Crude-Oil Production",Energy,5,209817,25123,-10,39206,4318,,,-0.2,Shanxi Coking Coal Group
+25112,2.9,799.5,10651,8909.5,33000,Temporary Help,Business Services,19,33000,25112,799.5,10651,3918,3.2,7.5,20.4,Adecco Group
+24956,-1.6,2135.4,28868,28.8,63387,Airlines,Transportation,20,63387,24956,2135.4,28868,5649,8.6,7.4,37.8,International Airlines Group
+24622,-3.1,4686.5,31024,3.5,375000,Food Services,"Hotels, Restaurants & Leisure",23,375000,24622,4686.5,31024,-2204,19,15.1,,McDonald’s
+24596,4.5,252,24091,-60.1,107729,Information Technology Services,Technology,23,107729,24596,252,24091,7668,1,1,3.3,NEC
+24594,-12,2513,39964,28.7,46000,Chemicals,Chemicals,23,46000,24594,2513,39964,9998,10.2,6.3,25.1,DuPont
+24588,11.3,320,6093,-4.3,11739,Wholesalers: Diversified,Wholesalers,7,11739,24588,320,6093,2263,1.3,5.3,14.1,China National Aviation Fuel Group
+24508,4.2,2200,25614,10.6,67000,Aerospace and Defense,Aerospace & Defense,18,67000,24508,2200,25614,5259,9,8.6,41.8,Northrop Grumman
+24411,22.6,1651,159826,-29.5,55700,Diversified Financials,Financials,1,55700,24411,1651,159826,26453,6.8,1,6.2,Brookfield Asset Management
+24403,50.3,2004.2,148659,-10.5,8370,Banks: Commercial and Savings,Financials,1,8370,24403,2004.2,148659,7550,8.2,1.3,26.5,Mercantil Servicios Financieros
+24397,5.8,4031.9,46696,18.6,84183,Computer Software,Technology,2,84183,24397,4031.9,46696,27817,16.5,8.6,14.5,SAP
+24360,-21.3,-3615,89772,,13300,"Mining, Crude-Oil Production",Energy,23,13300,24360,-3615,89772,34974,-14.8,-4,-10.3,ConocoPhillips
+24284,-14.2,11.1,30793,,146236,"Mining, Crude-Oil Production",Energy,5,146236,24284,11.1,30793,1783,,,0.6,Yangquan Coal Industry Group
+24267,-2.4,1902.1,46350,33.8,99187,Food Consumer Products,"Food, Beverages & Tobacco",23,99187,24267,1902.1,46350,13825,7.8,4.1,13.8,Danone
+24217,105.2,92.5,36816,-96.2,13898,"Engineering, Construction",Engineering & Construction,1,13898,24217,92.5,36816,15155,0.4,0.3,0.6,Samsung C&T
+24087,-15.9,-106.9,29026,,95666,"Mining, Crude-Oil Production",Energy,5,95666,24087,-106.9,29026,2542,-0.4,-0.4,-4.2,Shanxi LuAn Mining Group
+24069,3.5,2211,30052,6.6,63000,Aerospace and Defense,Aerospace & Defense,22,63000,24069,2211,30052,10066,9.2,7.4,22,Raytheon
+24060,8.5,2210.4,24549,9.3,126418,"Electronics, Electrical Equip.",Technology,2,126418,24060,2210.4,24549,8796,9.2,9,25.1,Midea Group
+24028,1.1,1058.2,48580,-25.2,30635,Utilities,Energy,23,30635,24028,1058.2,48580,14695,4.4,2.2,7.2,Chubu Electric Power
+24011,-6.4,1232.3,28383,-12.1,76000,Aerospace and Defense,Aerospace & Defense,23,76000,24011,1232.3,28383,4247,5.1,4.3,29,BAE Systems
+24005,-14.7,734,20398,-52.3,6308,Petroleum Refining,Energy,11,6308,24005,734,20398,5465,3.1,3.6,13.4,Andeavor
+23871,-9.7,243.9,101631,32.9,97091,Energy,Energy,8,97091,23871,243.9,101631,7371,1,0.2,3.3,China Datang
+23863,-2.3,319.6,12593,-28,200000,Semiconductors and Other Electronic Components,Technology,17,200000,23863,319.6,12593,2645,1.3,2.5,12.1,Flex
+23825,2.3,522.8,14206,5,18700,Wholesalers: Electronics and Office Equipment,Wholesalers,4,18700,23825,522.8,14206,4413,2.2,3.7,11.8,Arrow Electronics
+23793,65.9,,4982,,12369,Metals,Materials,7,12369,23793,,4982,3160,,,,Heraeus Holding
+23773,-10.9,252.1,10769,-7.9,64728,"Computers, Office Equipment",Technology,6,64728,23773,252.1,10769,3283,1.1,2.3,7.7,Compal Electronics
+23657,11.5,159.2,24231,-59,10234,Diversified Financials,Financials,1,10234,23657,159.2,24231,1925,0.7,0.7,8.3,Yango Financial Holding
+23554,-6.8,5705,52359,8.2,30500,Semiconductors and Other Electronic Components,Technology,4,30500,23554,5705,52359,31778,24.2,10.9,18,Qualcomm
+23551,9.7,285.1,11273,-2.1,13217,Wholesalers: Health Care,Wholesalers,8,13217,23551,285.1,11273,2993,1.2,2.5,9.5,Alfresa Holdings
+23517,47.9,6489.5,73538,-42.2,50097,Internet Services and Retailing,Technology,1,50097,23517,6489.5,73538,40454,27.6,8.8,16,Alibaba Group Holding
+23456,-8.1,1144.2,25047,-12.7,95456,Energy,Energy,16,95456,23456,1144.2,25047,7345,4.9,4.6,15.6,Koc Holding
+23441,12.4,1031,33428,-18.7,31721,Insurance: Property and Casualty (Stock),Financials,4,31721,23441,1031,33428,7957,4.4,3.1,13,Progressive
+23369,-1,2152,132761,-23.6,28798,Utilities,Energy,14,28798,23369,2152,132761,41033,9.2,1.6,5.2,Duke Energy
+23120,-1.7,1853.4,26705,43,105654,Motor Vehicles and Parts,Motor Vehicles & Parts,23,105654,23120,1853.4,26705,11178,8,6.9,16.6,Michelin
+23044,27.9,1733.6,85124,17.4,94450,Real estate,Financials,1,94450,23044,1733.6,85124,10091,7.5,2,17.2,Country Garden Holdings
+23044,-0.7,861.5,41469,-18.9,73525,Beverages,"Food, Beverages & Tobacco",11,73525,23044,861.5,41469,6958,3.7,2.1,12.4,Heineken Holding
+23022,-14.8,2513.1,52194,-0.3,6800,Pipelines,Energy,7,6800,23022,2513.1,52194,22047,10.9,4.8,11.4,Enterprise Products Partners
+23002,-6.9,3499,62526,23.9,59700,Pharmaceuticals,Health Care,19,59700,23002,3499,62526,14854,15.2,5.6,23.6,AstraZeneca
+22991,6.1,7722,77626,11.3,19200,Pharmaceuticals,Health Care,2,19200,22991,7722,77626,29875,33.6,9.9,25.8,Amgen
+22956,-4.4,828.3,698790,-15.1,40029,Banks: Commercial and Savings,Financials,23,40029,22956,828.3,698790,27232,3.6,0.1,3,Rabobank Group
+22953,42.2,-1722.5,84805,,49732,Telecommunications,Telecommunications,1,49732,22953,-1722.5,84805,-2668,-7.5,-2,,Altice
+22943,3.8,-130,42913,,161000,Semiconductors and Other Electronic Components,Technology,18,161000,22943,-130,42913,-490,-0.6,-0.3,,Onex
+22919,-0.9,209.8,8945,25.2,25000,Wholesalers: Food and Grocery,Wholesalers,2,25000,22919,209.8,8945,2538,0.9,2.3,8.3,US Foods Holding
+22875,-17,3,32954,,135691,"Mining, Crude-Oil Production",Energy,5,135691,22875,3,32954,2988,,,0.1,Shanxi Jincheng Anthracite Coal Mining Group
+22873,7.3,650.2,9624,13,32280,Temporary Help,Business Services,5,32280,22873,650.2,9624,4366,2.8,6.8,14.9,Randstad Holding
+22871,39.7,6185.9,56968,35,38775,Internet Services and Retailing,Technology,1,38775,22871,6185.9,56968,25128,27,10.9,24.6,Tencent Holdings
+22840,-9,781.4,20606,-8.6,49094,"Electronics, Electrical Equip.",Technology,6,49094,22840,781.4,20606,10729,3.4,3.8,7.3,LG Display
+22799,0.3,340.3,33096,-82.5,64768,Airlines,Transportation,2,64768,22799,340.3,33096,9395,1.5,1,3.6,Emirates Group
+22744,5.8,5888,445964,0.2,71191,Banks: Commercial and Savings,Financials,12,71191,22744,5888,445964,47298,25.9,1.3,12.4,U.S. Bancorp
+22618,4.6,2192.3,10681,-12.3,114586,Specialty Retailers,Retailing,2,114586,22618,2192.3,10681,6635,9.7,20.5,33,H & M Hennes & Mauritz
+22559,8.1,2659,129819,5,10212,"Insurance: Life, Health (stock)",Financials,10,10212,22559,2659,129819,20482,11.8,2,13,Aflac
+22477,-2,707.2,15766,-12.7,425594,Food Services,"Hotels, Restaurants & Leisure",18,425594,22477,707.2,15766,4085,3.1,4.5,17.3,Sodexo
+22366,3.7,106,19738,-23.6,60354,Specialty Retailers,Retailing,1,60354,22366,106,19738,9455,0.5,0.5,1.1,Suning Commerce Group
+22207,-11.4,1221.1,15969,42.1,2949,Petroleum Refining,Energy,6,2949,22207,1221.1,15969,8150,5.5,7.6,15,GS Caltex
+22167,-2.3,447.5,7426,-0.8,15173,Energy,Energy,8,15173,22167,447.5,7426,2621,2,6,17.1,Ultrapar Holdings
+22145,6.6,280.2,21729,15.6,18381,Trading,Wholesalers,1,18381,22145,280.2,21729,3985,1.3,1.3,7,Xiamen C&D
+22138,-12,-2221,9362,,140000,General Merchandisers,Retailing,23,140000,22138,-2221,9362,-3824,-10,-23.7,,Sears Holdings
+22113,-20.1,413.6,20860,-20.8,38589,"Engineering, Construction",Engineering & Construction,4,38589,22113,413.6,20860,5114,1.9,2,8.1,China General Technology
+22036,-3.2,10150.6,82310,160.2,22132,Utilities,Energy,12,22132,22036,10150.6,82310,25463,46.1,12.3,39.9,National Grid
+21987,7.9,1251.1,11672,7.4,121000,Specialty Retailers,Retailing,1,121000,21987,1251.1,11672,5406,5.7,10.7,23.1,Dollar General
+21941,-17.4,1999.4,74295,,61227,Telecommunications,Telecommunications,18,61227,21941,1999.4,74295,22366,9.1,2.7,8.9,Telecom Italia
+21930,34.3,35.6,12161,-25.1,18454,Trading,Wholesalers,1,18454,21930,35.6,12161,1066,0.2,0.3,3.3,Xiamen ITG Holding Group
+21919,31.1,251.8,31957,49.9,65616,Trading,Wholesalers,1,65616,21919,251.8,31957,4563,1.1,0.8,5.5,Xinjiang Guanghui Industry Investment
+21903,11.5,329,92890,-79.3,56960,Pharmaceuticals,Health Care,1,56960,21903,329,92890,33337,1.5,0.4,1,Teva Pharmaceutical Industries
+21796,-13.3,743.9,100609,-45.6,54378,"Insurance: Life, Health (stock)",Financials,2,54378,21796,743.9,100609,8507,3.4,0.7,8.7,New China Life Insurance
+21741,-11.3,406.4,11630,20.4,77210,Food and Drug Stores,Food & Drug Stores,13,77210,21741,406.4,11630,5111,1.9,3.5,8,Wm. Morrison Supermarkets
+21655,-5.5,1151.7,16247,195.5,66779,Travel Services,Business Services,23,66779,21655,1151.7,16247,3006,5.3,7.1,38.3,TUI
+21609,3.6,430.5,10060,-2.7,26000,Specialty Retailers,Retailing,12,26000,21609,430.5,10060,2310,2,4.3,18.6,AutoNation

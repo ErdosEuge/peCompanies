@@ -1,0 +1,501 @@
+Company	Industry	Sector
+Walmart	Retailing	General Merchandisers
+State Grid	Energy	Utilities
+Sinopec Group	Energy	Petroleum Refining
+China National Petroleum	Energy	Petroleum Refining
+Toyota Motor	Motor Vehicles & Parts	Motor Vehicles and Parts
+Volkswagen	Motor Vehicles & Parts	Motor Vehicles and Parts
+Royal Dutch Shell	Energy	Petroleum Refining
+Berkshire Hathaway	Financials	Insurance: Property and Casualty (Stock)
+Apple	Technology	Computers, Office Equipment
+Exxon Mobil	Energy	Petroleum Refining
+McKesson	Wholesalers	Wholesalers: Health Care
+BP	Energy	Petroleum Refining
+UnitedHealth Group	Health Care	Health Care: Insurance and Managed Care
+CVS Health	Health Care	Health Care: Pharmacy and Other Services
+Samsung Electronics	Technology	Electronics, Electrical Equip.
+Glencore	Energy	Mining, Crude-Oil Production
+Daimler	Motor Vehicles & Parts	Motor Vehicles and Parts
+General Motors	Motor Vehicles & Parts	Motor Vehicles and Parts
+AT&T	Telecommunications	Telecommunications
+EXOR Group	Financials	Diversified Financials
+Ford Motor	Motor Vehicles & Parts	Motor Vehicles and Parts
+Industrial & Commercial Bank of China	Financials	Banks: Commercial and Savings
+AmerisourceBergen	Wholesalers	Wholesalers: Health Care
+China State Construction Engineering	Engineering & Construction	Engineering, Construction
+AXA	Financials	Insurance: Life, Health (stock)
+Amazon.com	Technology	Internet Services and Retailing
+Hon Hai Precision Industry	Technology	Electronics, Electrical Equip.
+China Construction Bank	Financials	Banks: Commercial and Savings
+Honda Motor	Motor Vehicles & Parts	Motor Vehicles and Parts
+Total	Energy	Petroleum Refining
+General Electric	Industrials	Industrial Machinery
+Verizon	Telecommunications	Telecommunications
+Japan Post Holdings	Financials	Insurance: Life, Health (stock)
+Allianz	Financials	Insurance: Property and Casualty (Stock)
+Cardinal Health	Wholesalers	Wholesalers: Health Care
+Costco	Retailing	General Merchandisers
+Walgreens Boots Alliance	Food & Drug Stores	Food and Drug Stores
+Agricultural Bank of China	Financials	Banks: Commercial and Savings
+Ping An Insurance	Financials	Insurance: Life, Health (stock)
+Kroger	Food & Drug Stores	Food and Drug Stores
+SAIC Motor	Motor Vehicles & Parts	Motor Vehicles and Parts
+Bank of China	Financials	Banks: Commercial and Savings
+BNP Paribas	Financials	Banks: Commercial and Savings
+Nissan Motor	Motor Vehicles & Parts	Motor Vehicles and Parts
+Chevron	Energy	Petroleum Refining
+Fannie Mae	Financials	Diversified Financials
+China Mobile Communications	Telecommunications	Telecommunications
+J.P. Morgan Chase	Financials	Banks: Commercial and Savings
+Legal & General Group	Financials	Insurance: Life, Health (stock)
+Nippon Telegraph & Telephone	Telecommunications	Telecommunications
+China Life Insurance	Financials	Insurance: Life, Health (stock)
+BMW Group	Motor Vehicles & Parts	Motor Vehicles and Parts
+Express Scripts Holding	Health Care	Health Care: Pharmacy and Other Services
+Trafigura Group	Wholesalers	Trading
+China Railway Engineering	Engineering & Construction	Engineering, Construction
+Prudential	Financials	Insurance: Life, Health (stock)
+Assicurazioni Generali	Financials	Insurance: Life, Health (stock)
+China Railway Construction	Engineering & Construction	Engineering, Construction
+Home Depot	Retailing	Specialty Retailers
+Boeing	Aerospace & Defense	Aerospace and Defense
+Wells Fargo	Financials	Banks: Commercial and Savings
+Bank of America Corp.	Financials	Banks: Commercial and Savings
+Gazprom	Energy	Energy
+Nestle	Food, Beverages & Tobacco	Food Consumer Products
+Alphabet	Technology	Internet Services and Retailing
+Siemens	Industrials	Industrial Machinery
+Carrefour	Food & Drug Stores	Food and Drug Stores
+Dongfeng Motor	Motor Vehicles & Parts	Motor Vehicles and Parts
+Microsoft	Technology	Computer Software
+Anthem	Health Care	Health Care: Insurance and Managed Care
+Hitachi	Technology	Electronics, Electrical Equip.
+SoftBank Group	Telecommunications	Telecommunications
+Banco Santander	Financials	Banks: Commercial and Savings
+Citigroup	Financials	Banks: Commercial and Savings
+Petrobras	Energy	Petroleum Refining
+Robert Bosch	Motor Vehicles & Parts	Motor Vehicles and Parts
+Deutsche Telekom	Telecommunications	Telecommunications
+Hyundai Motor	Motor Vehicles & Parts	Motor Vehicles and Parts
+Comcast	Telecommunications	Telecommunications
+Credit Agricole	Financials	Banks: Commercial and Savings
+IBM	Technology	Information Technology Services
+Electricite de France	Energy	Utilities
+Huawei Investment & Holding	Technology	Network and Other Communications Equipment
+Enel	Energy	Utilities
+State Farm Insurance Cos.	Financials	Insurance: Property and Casualty (Mutual)
+China Resources National	Health Care	Pharmaceuticals
+AEON	Retailing	General Merchandisers
+HSBC Holdings	Financials	Banks: Commercial and Savings
+Pacific Construction Group	Engineering & Construction	Engineering, Construction
+Aviva	Financials	Insurance: Life, Health (stock)
+Uniper	Energy	Energy
+Tesco	Food & Drug Stores	Food and Drug Stores
+Engie	Energy	Energy
+Airbus Group	Aerospace & Defense	Aerospace and Defense
+SK Holdings	Energy	Petroleum Refining
+Phillips 66	Energy	Petroleum Refining
+Johnson & Johnson	Health Care	Pharmaceuticals
+Procter & Gamble	Household Products	Household and Personal Products
+U.S. Postal Service	Transportation	Mail, Package, and Freight Delivery
+China Southern Power Grid	Energy	Utilities
+China South Industries Group	Aerospace & Defense	Aerospace and Defense
+Lukoil	Energy	Petroleum Refining
+China Communications Construction	Engineering & Construction	Engineering, Construction
+Groupe BPCE	Financials	Banks: Commercial and Savings
+Sony	Technology	Electronics, Electrical Equip.
+Valero Energy	Energy	Petroleum Refining
+Target	Retailing	General Merchandisers
+Societe Generale	Financials	Banks: Commercial and Savings
+Munich Re Group	Financials	Insurance: Property and Casualty (Stock)
+Panasonic	Technology	Electronics, Electrical Equip.
+Nippon Life Insurance	Financials	Insurance: Life, Health (Mutual)
+Zurich Insurance Group	Financials	Insurance: Property and Casualty (Stock)
+Itau Unibanco Holding	Financials	Banks: Commercial and Savings
+People’s Insurance Co. of China	Financials	Insurance: Property and Casualty (Stock)
+China National Offshore Oil	Energy	Mining, Crude-Oil Production
+Marubeni	Wholesalers	Trading
+Deutsche Post DHL Group	Transportation	Mail, Package, and Freight Delivery
+Freddie Mac	Financials	Diversified Financials
+China Post Group	Transportation	Mail, Package, and Freight Delivery
+China Minmetals	Materials	Metals
+Lloyds Banking Group	Financials	Banks: Commercial and Savings
+Lowe’s	Retailing	Specialty Retailers
+Metro	Food & Drug Stores	Food and Drug Stores
+Dell Technologies	Technology	Computers, Office Equipment
+China FAW Group	Motor Vehicles & Parts	Motor Vehicles and Parts
+BASF	Chemicals	Chemicals
+JXTG Holdings	Energy	Petroleum Refining
+MetLife	Financials	Insurance: Life, Health (stock)
+Tewoo Group	Wholesalers	Trading
+Aetna	Health Care	Health Care: Insurance and Managed Care
+PepsiCo	Food, Beverages & Tobacco	Food Consumer Products
+ENI	Energy	Petroleum Refining
+China Telecommunications	Telecommunications	Telecommunications
+Archer Daniels Midland	Food, Beverages & Tobacco	Food Production
+China North Industries Group	Aerospace & Defense	Aerospace and Defense
+COFCO	Wholesalers	Trading
+Beijing Automotive Group	Motor Vehicles & Parts	Motor Vehicles and Parts
+UPS	Transportation	Mail, Package, and Freight Delivery
+Anbang Insurance Group	Financials	Insurance: Life, Health (Mutual)
+Peugeot	Motor Vehicles & Parts	Motor Vehicles and Parts
+Albertsons Cos.	Food & Drug Stores	Food and Drug Stores
+Dai-ichi Life Holdings	Financials	Insurance: Life, Health (stock)
+Sinochem Group	Wholesalers	Trading
+Intel	Technology	Semiconductors and Other Electronic Components
+Mitsubishi	Wholesalers	Trading
+Auchan Holding	Food & Drug Stores	Food and Drug Stores
+Aegon	Financials	Insurance: Life, Health (stock)
+Prudential Financial	Financials	Insurance: Life, Health (stock)
+Vodafone Group	Telecommunications	Telecommunications
+Unilever	Household Products	Household and Personal Products
+Banco do Brasil	Financials	Banks: Commercial and Savings
+Pemex	Energy	Mining, Crude-Oil Production
+Telefonica	Telecommunications	Telecommunications
+Banco Bradesco	Financials	Banks: Commercial and Savings
+United Technologies	Aerospace & Defense	Aerospace and Defense
+ArcelorMittal	Materials	Metals
+Renault	Motor Vehicles & Parts	Motor Vehicles and Parts
+Rosneft Oil	Energy	Petroleum Refining
+Shandong Weiqiao Pioneering Group	Industrials	Textiles
+Marathon Petroleum	Energy	Petroleum Refining
+Disney	Media	Entertainment
+Aviation Industry Corp. of China	Aerospace & Defense	Aerospace and Defense
+ING Group	Financials	Banks: Commercial and Savings
+Mitsubishi UFJ Financial Group	Financials	Banks: Commercial and Savings
+Royal Ahold Delhaize	Food & Drug Stores	Food and Drug Stores
+Humana	Health Care	Health Care: Insurance and Managed Care
+Seven & I Holdings	Food & Drug Stores	Food and Drug Stores
+Indian Oil	Energy	Petroleum Refining
+Roche Group	Health Care	Pharmaceuticals
+HNA Group	Transportation	Airlines
+Bank of Communications	Financials	Banks: Commercial and Savings
+CITIC Group	Financials	Diversified Financials
+Pfizer	Health Care	Pharmaceuticals
+Bayer	Health Care	Pharmaceuticals
+AIG	Financials	Insurance: Property and Casualty (Stock)
+America Movil	Telecommunications	Telecommunications
+Korea Electric Power	Energy	Utilities
+Lockheed Martin	Aerospace & Defense	Aerospace and Defense
+Sysco	Wholesalers	Wholesalers: Food and Grocery
+FedEx	Transportation	Mail, Package, and Freight Delivery
+Hewlett Packard Enterprise	Technology	Information Technology Services
+Louis Dreyfus Company	Food, Beverages & Tobacco	Food Production
+Amer International Group	Technology	Electronics, Electrical Equip.
+Petronas	Energy	Petroleum Refining
+Tokyo Electric Power	Energy	Utilities
+Novartis	Health Care	Pharmaceuticals
+Cisco Systems	Technology	Network and Other Communications Equipment
+MS&AD Insurance Group Holdings	Financials	Insurance: Property and Casualty (Stock)
+Deutsche Bank	Financials	Banks: Commercial and Savings
+PowerChina	Engineering & Construction	Engineering, Construction
+JBS	Food, Beverages & Tobacco	Food Production
+PTT	Energy	Petroleum Refining
+Tokio Marine Holdings	Financials	Insurance: Property and Casualty (Stock)
+HP	Technology	Computers, Office Equipment
+RWE	Energy	Utilities
+Dow Chemical	Chemicals	Chemicals
+Finatis	Food & Drug Stores	Food and Drug Stores
+Wesfarmers	Food & Drug Stores	Food and Drug Stores
+Sinopharm	Health Care	Pharmaceuticals
+CNP Assurances	Financials	Insurance: Life, Health (stock)
+LG Electronics	Technology	Electronics, Electrical Equip.
+Sumitomo Mitsui Financial Group	Financials	Banks: Commercial and Savings
+Reliance Industries	Energy	Petroleum Refining
+China Baowu Steel Group	Materials	Metals
+Noble Group	Wholesalers	Trading
+Anheuser-Busch InBev	Food, Beverages & Tobacco	Beverages
+Statoil	Energy	Petroleum Refining
+POSCO	Materials	Metals
+Kia Motors	Motor Vehicles & Parts	Motor Vehicles and Parts
+Orange	Telecommunications	Telecommunications
+ChemChina	Chemicals	Chemicals
+Deutsche Bahn	Transportation	Railroads
+Continental	Motor Vehicles & Parts	Motor Vehicles and Parts
+HCA Holdings	Health Care	Health Care: Medical Facilities
+Itochu	Wholesalers	Trading
+China Merchants Bank	Financials	Banks: Commercial and Savings
+State Bank of India	Financials	Banks: Commercial and Savings
+Woolworths	Food & Drug Stores	Food and Drug Stores
+KDDI	Telecommunications	Telecommunications
+Swiss Re	Financials	Insurance: Property and Casualty (Stock)
+HBIS Group	Materials	Metals
+CEFC China Energy	Energy	Energy
+Banco Bilbao Vizcaya Argentaria	Financials	Banks: Commercial and Savings
+ThyssenKrupp	Materials	Metals
+Saint-Gobain	Materials	Building Materials, Glass
+Lenovo Group	Technology	Computers, Office Equipment
+Vinci	Engineering & Construction	Engineering, Construction
+Nippon Steel & Sumitomo Metal	Materials	Metals
+Bunge	Food, Beverages & Tobacco	Food Production
+Industrial Bank	Financials	Banks: Commercial and Savings
+E.ON	Energy	Energy
+Sberbank	Financials	Banks: Commercial and Savings
+China Shipbuilding Industry	Industrials	Industrial Machinery
+Christian Dior	Apparel	Apparel
+Coca-Cola	Food, Beverages & Tobacco	Beverages
+Denso	Motor Vehicles & Parts	Motor Vehicles and Parts
+Fujitsu	Technology	Information Technology Services
+Guangzhou Automobile Industry Group	Motor Vehicles & Parts	Motor Vehicles and Parts
+Wilmar International	Food, Beverages & Tobacco	Food Production
+Sanofi	Health Care	Pharmaceuticals
+China United Network Communications	Telecommunications	Telecommunications
+Sumitomo Life Insurance	Financials	Insurance: Life, Health (Mutual)
+New York Life Insurance	Financials	Insurance: Life, Health (Mutual)
+Centene	Health Care	Health Care: Insurance and Managed Care
+Shanghai Pudong Development Bank	Financials	Banks: Commercial and Savings
+Hanwha	Financials	Insurance: Life, Health (stock)
+Tata Motors	Motor Vehicles & Parts	Motor Vehicles and Parts
+Aluminum Corp. of China	Materials	Metals
+Mitsui	Wholesalers	Trading
+Manulife Financial	Financials	Insurance: Life, Health (stock)
+China Minsheng Banking	Financials	Banks: Commercial and Savings
+China Pacific Insurance (Group)	Financials	Insurance: Life, Health (stock)
+American Airlines Group	Transportation	Airlines
+Nationwide	Financials	Insurance: Property and Casualty (Mutual)
+Merck	Health Care	Pharmaceuticals
+Cigna	Health Care	Health Care: Insurance and Managed Care
+Delta Air Lines	Transportation	Airlines
+Best Buy	Retailing	Specialty Retailers
+China National Building Material Group	Materials	Building Materials, Glass
+Honeywell International	Technology	Electronics, Electrical Equip.
+JD.com	Technology	Internet Services and Retailing
+Mitsubishi Electric	Technology	Electronics, Electrical Equip.
+ZF Friedrichshafen	Motor Vehicles & Parts	Motor Vehicles and Parts
+Caterpillar	Industrials	Construction and Farm Machinery
+Liberty Mutual Insurance Group	Financials	Insurance: Property and Casualty (Stock)
+Power Corp. of Canada	Financials	Insurance: Life, Health (stock)
+Morgan Stanley	Financials	Banks: Commercial and Savings
+Hengli Group	Industrials	Textiles
+SSE	Energy	Utilities
+Massachusetts Mutual Life Insurance	Financials	Insurance: Life, Health (Mutual)
+Goldman Sachs Group	Financials	Banks: Commercial and Savings
+Johnson Controls International	Industrials	Industrial Machinery
+GlaxoSmithKline	Health Care	Pharmaceuticals
+China Huaneng Group	Energy	Energy
+Energy Transfer Equity	Energy	Pipelines
+Shenhua Group	Energy	Mining, Crude-Oil Production
+Greenland Holding Group	Financials	Real estate
+TIAA	Financials	Insurance: Life, Health (Mutual)
+Jardine Matheson	Motor Vehicles & Parts	Motor Vehicles and Parts
+Oracle	Technology	Computer Software
+ACS	Engineering & Construction	Engineering, Construction
+Sumitomo	Wholesalers	Trading
+Tyson Foods	Food, Beverages & Tobacco	Food Production
+Barclays	Financials	Banks: Commercial and Savings
+Poste Italiane	Financials	Insurance: Life, Health (stock)
+Centrica	Energy	Utilities
+United Continental Holdings	Transportation	Airlines
+Allstate	Financials	Insurance: Property and Casualty (Stock)
+Pertamina	Energy	Petroleum Refining
+Magna International	Motor Vehicles & Parts	Motor Vehicles and Parts
+UBS Group	Financials	Banks: Commercial and Savings
+Intesa Sanpaolo	Financials	Banks: Commercial and Savings
+George Weston	Food & Drug Stores	Food and Drug Stores
+Mitsubishi Heavy Industries	Industrials	Industrial Machinery
+Rajesh Exports	Wholesalers	Trading
+Pegatron	Technology	Computers, Office Equipment
+Meiji Yasuda Life Insurance	Financials	Insurance: Life, Health (Mutual)
+Maersk Group	Transportation	Shipping
+SABIC	Chemicals	Chemicals
+Bouygues	Engineering & Construction	Engineering, Construction
+Volvo	Motor Vehicles & Parts	Motor Vehicles and Parts
+Talanx	Financials	Insurance: Property and Casualty (Stock)
+Lufthansa Group	Transportation	Airlines
+Royal Bank of Canada	Financials	Banks: Commercial and Savings
+Accenture	Technology	Information Technology Services
+Repsol	Energy	Petroleum Refining
+China Vanke	Financials	Real estate
+Publix Super Markets	Food & Drug Stores	Food and Drug Stores
+Edeka Zentrale	Wholesalers	Wholesalers: Food and Grocery
+J. Sainsbury	Food & Drug Stores	Food and Drug Stores
+Alimentation Couche-Tard	Food & Drug Stores	Food and Drug Stores
+China Energy Engineering Group	Engineering & Construction	Engineering, Construction
+Hyundai Heavy Industries	Industrials	Industrial Machinery
+ABB	Industrials	Industrial Machinery
+American Express	Financials	Diversified Financials
+Rio Tinto Group	Energy	Mining, Crude-Oil Production
+SNCF Mobilites	Transportation	Railroads
+CRRC	Industrials	Industrial Machinery
+CK Hutchison Holdings	Retailing	Specialty Retailers
+Jizhong Energy Group	Energy	Mining, Crude-Oil Production
+TJX	Retailing	Specialty Retailers
+Xinxing Cathay International Group	Materials	Metals
+Hyundai Mobis	Motor Vehicles & Parts	Motor Vehicles and Parts
+Aisin Seiki	Motor Vehicles & Parts	Motor Vehicles and Parts
+Rite Aid	Food & Drug Stores	Food and Drug Stores
+Shaanxi Yanchang Petroleum (Group)	Energy	Mining, Crude-Oil Production
+DZ Bank	Financials	Banks: Commercial and Savings
+UniCredit Group	Financials	Banks: Commercial and Savings
+China Everbright Group	Financials	Banks: Commercial and Savings
+Daiwa House Industry	Engineering & Construction	Engineering, Construction
+Nike	Apparel	Apparel
+Iberdrola	Energy	Utilities
+Commonwealth Bank of Australia	Financials	Banks: Commercial and Savings
+Sinomach	Industrials	Industrial Machinery
+Fresenius	Health Care	Health Care: Medical Facilities
+China Aerospace Science & Technology	Aerospace & Defense	Aerospace and Defense
+Shaanxi Coal & Chemical Industry	Energy	Mining, Crude-Oil Production
+China Evergrande Group	Financials	Real estate
+Jiangxi Copper	Energy	Mining, Crude-Oil Production
+Sompo Holdings	Financials	Insurance: Property and Casualty (Stock)
+China Poly Group	Financials	Real estate
+Chubb	Financials	Insurance: Property and Casualty (Stock)
+Zhejiang Geely Holding Group	Motor Vehicles & Parts	Motor Vehicles and Parts
+Exelon	Energy	Utilities
+General Dynamics	Aerospace & Defense	Aerospace and Defense
+BT Group	Telecommunications	Telecommunications
+Canon	Technology	Computers, Office Equipment
+Wuchan Zhongda Group	Wholesalers	Trading
+Mitsubishi Chemical Holdings	Chemicals	Chemicals
+BHP Billiton	Energy	Mining, Crude-Oil Production
+Toronto-Dominion Bank	Financials	Banks: Commercial and Savings
+Subaru	Motor Vehicles & Parts	Motor Vehicles and Parts
+Bridgestone	Motor Vehicles & Parts	Motor Vehicles and Parts
+Credit Suisse Group	Financials	Banks: Commercial and Savings
+China Aerospace Science & Industry	Aerospace & Defense	Aerospace and Defense
+JFE Holdings	Materials	Metals
+Mizuho Financial Group	Financials	Banks: Commercial and Savings
+Gilead Sciences	Health Care	Pharmaceuticals
+CHS	Food, Beverages & Tobacco	Food Production
+Bharat Petroleum	Energy	Petroleum Refining
+3M	Industrials	Miscellaneous
+China Electronics	Technology	Electronics, Electrical Equip.
+CRH	Materials	Building Materials, Glass
+China State Shipbuilding	Industrials	Industrial Machinery
+Jiangsu Shagang Group	Materials	Metals
+China COSCO Shipping	Transportation	Shipping
+Mazda Motor	Motor Vehicles & Parts	Motor Vehicles and Parts
+State Power Investment	Energy	Energy
+Taiwan Semiconductor Manufacturing	Technology	Semiconductors and Other Electronic Components
+Vale	Energy	Mining, Crude-Oil Production
+Time Warner	Media	Entertainment
+Shandong Energy Group	Energy	Mining, Crude-Oil Production
+Suzuki Motor	Motor Vehicles & Parts	Motor Vehicles and Parts
+LyondellBasell Industries	Chemicals	Chemicals
+Royal Philips	Health Care	Medical Products and Equipment
+Charter Communications	Telecommunications	Telecommunications
+Medtronic	Health Care	Medical Products and Equipment
+Northwestern Mutual	Financials	Insurance: Life, Health (Mutual)
+L’Oreal	Household Products	Household and Personal Products
+Dalian Wanda Group	Financials	Real estate
+Medipal Holdings	Wholesalers	Wholesalers: Health Care
+China Huadian	Energy	Utilities
+AIA Group	Financials	Insurance: Life, Health (stock)
+Hindustan Petroleum	Energy	Petroleum Refining
+Migros Group	Food & Drug Stores	Food and Drug Stores
+Air France-KLM Group	Transportation	Airlines
+Compass Group	Hotels, Restaurants & Leisure	Food Services
+Schlumberger	Energy	Oil & Gas Equipment Services
+Kansai Electric Power	Energy	Utilities
+Quanta Computer	Technology	Computers, Office Equipment
+Westpac Banking	Financials	Banks: Commercial and Savings
+Coop Group	Food & Drug Stores	Food and Drug Stores
+Facebook	Technology	Internet Services and Retailing
+Travelers Cos.	Financials	Insurance: Property and Casualty (Stock)
+Capital One Financial	Financials	Banks: Commercial and Savings
+Twenty-First Century Fox	Media	Entertainment
+China Guodian	Energy	Energy
+LafargeHolcim	Materials	Building Materials, Glass
+Schneider Electric	Technology	Electronics, Electrical Equip.
+China Electronics Technology Group	Aerospace & Defense	Aerospace and Defense
+USAA	Financials	Insurance: Property and Casualty (Stock)
+World Fuel Services	Energy	Energy
+Phoenix Pharmahandel	Wholesalers	Wholesalers: Health Care
+Veolia Environnement	Energy	Utilities
+National Australia Bank	Financials	Banks: Commercial and Savings
+Philip Morris International	Food, Beverages & Tobacco	Tobacco
+Deere	Industrials	Construction and Farm Machinery
+East Japan Railway	Transportation	Railroads
+Achmea	Financials	Insurance: Life, Health (Mutual)
+Kraft Heinz	Food, Beverages & Tobacco	Food Consumer Products
+Cathay Life Insurance	Financials	Insurance: Life, Health (stock)
+Tech Data	Wholesalers	Wholesalers: Electronics and Office Equipment
+Samsung Life Insurance	Financials	Insurance: Life, Health (stock)
+Avnet	Wholesalers	Wholesalers: Electronics and Office Equipment
+Nokia	Technology	Network and Other Communications Equipment
+Enbridge	Energy	Pipelines
+Gas Natural Fenosa	Energy	Utilities
+Australia & New Zealand Banking Group	Financials	Banks: Commercial and Savings
+LM Ericsson	Technology	Network and Other Communications Equipment
+Sumitomo Electric Industries	Motor Vehicles & Parts	Motor Vehicles and Parts
+Mondelez International	Food, Beverages & Tobacco	Food Consumer Products
+Old Mutual	Financials	Insurance: Life, Health (stock)
+Idemitsu Kosan	Energy	Petroleum Refining
+Bank of Nova Scotia	Financials	Banks: Commercial and Savings
+Macy’s	Retailing	General Merchandisers
+Mapfre Group	Financials	Insurance: Property and Casualty (Stock)
+La Poste	Transportation	Mail, Package, and Freight Delivery
+Inditex	Retailing	Specialty Retailers
+AbbVie	Health Care	Pharmaceuticals
+Datong Coal Mine Group	Energy	Mining, Crude-Oil Production
+Lotte Shopping	Retailing	General Merchandisers
+Standard Life	Financials	Diversified Financials
+Shanxi Coking Coal Group	Energy	Mining, Crude-Oil Production
+Adecco Group	Business Services	Temporary Help
+International Airlines Group	Transportation	Airlines
+McDonald’s	Hotels, Restaurants & Leisure	Food Services
+NEC	Technology	Information Technology Services
+DuPont	Chemicals	Chemicals
+China National Aviation Fuel Group	Wholesalers	Wholesalers: Diversified
+Northrop Grumman	Aerospace & Defense	Aerospace and Defense
+Brookfield Asset Management	Financials	Diversified Financials
+Mercantil Servicios Financieros	Financials	Banks: Commercial and Savings
+SAP	Technology	Computer Software
+ConocoPhillips	Energy	Mining, Crude-Oil Production
+Yangquan Coal Industry Group	Energy	Mining, Crude-Oil Production
+Danone	Food, Beverages & Tobacco	Food Consumer Products
+Samsung C&T	Engineering & Construction	Engineering, Construction
+Shanxi LuAn Mining Group	Energy	Mining, Crude-Oil Production
+Raytheon	Aerospace & Defense	Aerospace and Defense
+Midea Group	Technology	Electronics, Electrical Equip.
+Chubu Electric Power	Energy	Utilities
+BAE Systems	Aerospace & Defense	Aerospace and Defense
+Andeavor	Energy	Petroleum Refining
+China Datang	Energy	Energy
+Flex	Technology	Semiconductors and Other Electronic Components
+Arrow Electronics	Wholesalers	Wholesalers: Electronics and Office Equipment
+Heraeus Holding	Materials	Metals
+Compal Electronics	Technology	Computers, Office Equipment
+Yango Financial Holding	Financials	Diversified Financials
+Qualcomm	Technology	Semiconductors and Other Electronic Components
+Alfresa Holdings	Wholesalers	Wholesalers: Health Care
+Alibaba Group Holding	Technology	Internet Services and Retailing
+Koc Holding	Energy	Energy
+Progressive	Financials	Insurance: Property and Casualty (Stock)
+Duke Energy	Energy	Utilities
+Michelin	Motor Vehicles & Parts	Motor Vehicles and Parts
+Country Garden Holdings	Financials	Real estate
+Heineken Holding	Food, Beverages & Tobacco	Beverages
+Enterprise Products Partners	Energy	Pipelines
+AstraZeneca	Health Care	Pharmaceuticals
+Amgen	Health Care	Pharmaceuticals
+Rabobank Group	Financials	Banks: Commercial and Savings
+Altice	Telecommunications	Telecommunications
+Onex	Technology	Semiconductors and Other Electronic Components
+US Foods Holding	Wholesalers	Wholesalers: Food and Grocery
+Shanxi Jincheng Anthracite Coal Mining Group	Energy	Mining, Crude-Oil Production
+Randstad Holding	Business Services	Temporary Help
+Tencent Holdings	Technology	Internet Services and Retailing
+LG Display	Technology	Electronics, Electrical Equip.
+Emirates Group	Transportation	Airlines
+U.S. Bancorp	Financials	Banks: Commercial and Savings
+H & M Hennes & Mauritz	Retailing	Specialty Retailers
+Aflac	Financials	Insurance: Life, Health (stock)
+Sodexo	Hotels, Restaurants & Leisure	Food Services
+Suning Commerce Group	Retailing	Specialty Retailers
+GS Caltex	Energy	Petroleum Refining
+Ultrapar Holdings	Energy	Energy
+Xiamen C&D	Wholesalers	Trading
+Sears Holdings	Retailing	General Merchandisers
+China General Technology	Engineering & Construction	Engineering, Construction
+National Grid	Energy	Utilities
+Dollar General	Retailing	Specialty Retailers
+Telecom Italia	Telecommunications	Telecommunications
+Xiamen ITG Holding Group	Wholesalers	Trading
+Xinjiang Guanghui Industry Investment	Wholesalers	Trading
+Teva Pharmaceutical Industries	Health Care	Pharmaceuticals
+New China Life Insurance	Financials	Insurance: Life, Health (stock)
+Wm. Morrison Supermarkets	Food & Drug Stores	Food and Drug Stores
+TUI	Business Services	Travel Services
+AutoNation	Retailing	Specialty Retailers
